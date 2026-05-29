@@ -376,11 +376,6 @@ footer{
     </div>
   </div>
 
-  <div style="margin-bottom:14px">
-    <div style="font-size:11px;font-family:var(--mono);color:var(--text-3);margin-bottom:8px">QUICK LOAD — DEMO CASES:</div>
-    <div class="demo-row" id="demoBtns"></div>
-  </div>
-
   <div class="fg">
     <div class="field">
       <label>Engine Temperature <span class="unit">°C</span></label>
@@ -613,64 +608,7 @@ let recorder = null, chunks = [], isRec = false;
 let audioBlob = null, audioFeatures = null;
 let demoData  = [];
 
-// ── Boot: fetch demo cases ────────────────────────────────────────
-async function loadDemos() {
-  try {
-    const r = await fetch(`${API}/demo-cases`);
-    if (!r.ok) throw new Error();
-    demoData = await r.json();
-    const row = document.getElementById('demoBtns');
-    demoData.forEach((d, i) => {
-      const b = document.createElement('button');
-      b.className = 'demo-btn';
-      b.textContent = d.label;
-      b.onclick = () => loadDemo(i);
-      row.appendChild(b);
-    });
-  } catch {
-    // Backend offline — use baked-in demos
-    demoData = [
-      {label:'Toyota Axio — Oil Pressure Fault',
-       sensor_data:{engine_temp_c:112.5,rpm:2800,battery_voltage:12.4,oil_pressure_psi:16.0,brake_fluid_level_percent:74.0,speed_kmh:48,mileage_km:145000,driving_pattern:'mixed'},
-       vehicle_info:{make:'Toyota',model:'Axio',year:2014,engine_type:'4-cylinder',fuel_type:'Petrol',transmission:'Automatic',region_driven:'Hokandara'}},
-      {label:'Honda Civic — Overheating',
-       sensor_data:{engine_temp_c:108.0,rpm:3200,battery_voltage:12.5,oil_pressure_psi:31.0,brake_fluid_level_percent:72.0,speed_kmh:65,mileage_km:178000,driving_pattern:'traffic'},
-       vehicle_info:{make:'Honda',model:'Civic',year:2012,engine_type:'4-cylinder',fuel_type:'Petrol',transmission:'Automatic',region_driven:'Battaramulla'}},
-      {label:'Suzuki Alto — Battery Fault',
-       sensor_data:{engine_temp_c:86.0,rpm:1400,battery_voltage:10.8,oil_pressure_psi:37.0,brake_fluid_level_percent:76.0,speed_kmh:0,mileage_km:92000,driving_pattern:'mixed'},
-       vehicle_info:{make:'Suzuki',model:'Alto',year:2016,engine_type:'3-cylinder',fuel_type:'Petrol',transmission:'Manual',region_driven:'Nugegoda'}},
-      {label:'Toyota Vezel — Healthy',
-       sensor_data:{engine_temp_c:86.0,rpm:1800,battery_voltage:12.7,oil_pressure_psi:43.0,brake_fluid_level_percent:82.0,speed_kmh:42,mileage_km:61000,driving_pattern:'mixed'},
-       vehicle_info:{make:'Toyota',model:'Vezel',year:2019,engine_type:'4-cylinder',fuel_type:'Petrol Hybrid',transmission:'Automatic',region_driven:'Malabe'}},
-    ];
-    const row = document.getElementById('demoBtns');
-    demoData.forEach((d,i) => {
-      const b = document.createElement('button');
-      b.className='demo-btn'; b.textContent=d.label; b.onclick=()=>loadDemo(i);
-      row.appendChild(b);
-    });
-  }
-}
 
-function loadDemo(i) {
-  const d = demoData[i];
-  const s = d.sensor_data, v = d.vehicle_info;
-  setV('engine_temp_c', s.engine_temp_c); setV('rpm', s.rpm);
-  setV('battery_voltage', s.battery_voltage); setV('oil_pressure_psi', s.oil_pressure_psi);
-  setV('brake_fluid_level_percent', s.brake_fluid_level_percent);
-  setV('speed_kmh', s.speed_kmh); setV('mileage_km', s.mileage_km);
-  setSel('driving_pattern', s.driving_pattern);
-  setSel('make', v.make); setSel('model', v.model);
-  setV('year', v.year); setSel('transmission', v.transmission);
-  setSel('engine_type', v.engine_type); setSel('fuel_type', v.fuel_type);
-  setSel('region_driven', v.region_driven);
-  // Update hints
-  ['engine_temp_c','rpm','battery_voltage','oil_pressure_psi','brake_fluid_level_percent'].forEach(id => {
-    const el = document.getElementById(id);
-    if (el) el.dispatchEvent(new Event('input'));
-  });
-  showToast(`Loaded: ${d.label}`, 'info');
-}
 function setV(id,v){ const el=document.getElementById(id); if(el) el.value=v; }
 function setSel(id,v){ const el=document.getElementById(id); if(el) el.value=v; }
 
@@ -1004,7 +942,7 @@ function renderResults(data, sensor) {
   document.getElementById('rModelMeta').innerHTML = `
     <div class="model-stat"><div class="model-stat-val">${model}</div><div class="model-stat-lbl">MODEL</div></div>
     <div class="model-stat"><div class="model-stat-val">${(model_accuracy*100).toFixed(1)}%</div><div class="model-stat-lbl">TEST ACCURACY</div></div>
-    <div class="model-stat"><div class="model-stat-val">85.4%</div><div class="model-stat-lbl">MACRO F1</div></div>
+    <div class="model-stat"><div class="model-stat-val">85.1%</div><div class="model-stat-lbl">MACRO F1</div></div>
     <div class="model-stat"><div class="model-stat-val">83.4%</div><div class="model-stat-lbl">CV F1 (5-fold)</div></div>
     <div class="model-stat"><div class="model-stat-val">${data.audio_used?'Yes':'No'}</div><div class="model-stat-lbl">AUDIO USED</div></div>`;
 
@@ -1020,7 +958,7 @@ function showToast(msg, type='info') {
 }
 
 // ── Init ──────────────────────────────────────────────────────────
-loadDemos();
+updateModels();
 </script>
 </body>
 </html>
