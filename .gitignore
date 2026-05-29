@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+*.egg-info/
+
+# Models (large files - use Git LFS or store separately)
+# models/*.pkl     ← uncomment if you want to exclude pkl from git
+# models/*.joblib
+
+# Data (don't commit raw data to git)
+dataset/data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoint
+
+# Logs
+*.log

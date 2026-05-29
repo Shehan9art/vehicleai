@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: vehicleai-backend
+    env: python
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: gunicorn backend.app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.0"
+    disk:
+      name: models
+      mountPath: /opt/render/project/src/models
+      sizeGB: 1
