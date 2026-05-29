@@ -1,0 +1,1218 @@
+reading_id,vehicle_id,make,model,year,engine_type,fuel_type,transmission,mileage_km,region_driven
+1,1,Tata,Indica,2008,4-cylinder,Petrol,Manual,143463,Battaramulla
+2,2,Toyota,Premio,2023,4-cylinder,Petrol,Automatic,178858,Boralesgamuwa
+3,3,Honda,Vezel,2016,4-cylinder,Petrol Hybrid,Automatic,155295,Kaduwela
+4,4,Mitsubishi,Lancer,2012,4-cylinder,Petrol,Manual,34106,Athurugiriya
+5,5,Nissan,Tiida,2015,4-cylinder,Petrol,Automatic,121040,Battaramulla
+6,6,Toyota,Corolla,2011,4-cylinder,Petrol,Manual,257841,Nugegoda
+7,7,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,190280,Nugegoda
+8,8,Kia,Rio,2017,4-cylinder,Petrol,Automatic,148145,Athurugiriya
+9,9,Tata,Indica,2013,4-cylinder,Petrol,Manual,93891,Pannipitiya
+10,10,Honda,Civic,2012,4-cylinder,Petrol,Manual,67647,Nugegoda
+11,11,Hyundai,i10,2009,3-cylinder,Petrol,Automatic,257261,Maharagama
+12,12,Toyota,Vios,2011,4-cylinder,Petrol,Automatic,206114,Boralesgamuwa
+13,13,Kia,Cerato,2011,4-cylinder,Petrol,Automatic,229996,Thalawathugoda
+14,14,Nissan,Tiida,2016,4-cylinder,Petrol,Automatic,112984,Athurugiriya
+15,15,Honda,Fit,2008,4-cylinder,Petrol,Automatic,265826,Thalawathugoda
+16,16,Toyota,Allion,2013,4-cylinder,Petrol,Automatic,150681,Rajagiriya
+17,17,Hyundai,i10,2011,3-cylinder,Petrol,Automatic,102821,Koswatta
+18,18,Honda,City,2006,4-cylinder,Petrol,Automatic,151627,Hokandara
+19,19,Nissan,Almera,2012,4-cylinder,Petrol,Automatic,160946,Kaduwela
+20,20,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,34015,Athurugiriya
+21,21,Toyota,Corolla,2015,4-cylinder,Petrol,Manual,213430,Rajagiriya
+22,22,Toyota,Allion,2014,4-cylinder,Petrol,Automatic,60572,Malabe
+23,23,Honda,Grace,2009,4-cylinder,Petrol Hybrid,Automatic,142218,Rajagiriya
+24,24,Honda,Grace,2010,4-cylinder,Petrol Hybrid,Automatic,261486,Nugegoda
+25,25,Nissan,Tiida,2005,4-cylinder,Petrol,Automatic,73011,Athurugiriya
+26,26,Tata,Indica,2006,4-cylinder,Petrol,Manual,227213,Pannipitiya
+27,27,Honda,Vezel,2015,4-cylinder,Petrol Hybrid,Automatic,114892,Malabe
+28,28,Toyota,Premio,2017,4-cylinder,Petrol,Automatic,277991,Hokandara
+29,29,Nissan,Tiida,2005,4-cylinder,Petrol,Automatic,166766,Koswatta
+30,30,Perodua,Myvi,2016,3-cylinder,Petrol,Automatic,270085,Pannipitiya
+31,31,Toyota,Vios,2010,4-cylinder,Petrol,Automatic,202998,Malabe
+32,32,Suzuki,Swift,2007,4-cylinder,Petrol,Manual,168448,Thalawathugoda
+33,33,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,114767,Boralesgamuwa
+34,34,Mazda,Demio,2015,4-cylinder,Petrol,Automatic,203466,Athurugiriya
+35,35,Nissan,Sunny,2022,4-cylinder,Petrol,Manual,182107,Hokandara
+36,36,Suzuki,Baleno,2019,4-cylinder,Petrol,Automatic,207814,Athurugiriya
+37,37,Tata,Indica,2006,4-cylinder,Petrol,Manual,56881,Thalawathugoda
+38,38,Suzuki,Jimny,2022,4-cylinder,Petrol,Manual,240539,Athurugiriya
+39,39,Suzuki,Baleno,2014,4-cylinder,Petrol,Automatic,157142,Battaramulla
+40,40,Suzuki,Swift,2022,4-cylinder,Petrol,Manual,92105,Battaramulla
+41,41,Suzuki,Jimny,2013,4-cylinder,Petrol,Manual,182823,Kottawa
+42,42,Kia,Rio,2007,4-cylinder,Petrol,Automatic,92064,Thalawathugoda
+43,43,Kia,Cerato,2018,4-cylinder,Petrol,Automatic,57049,Hokandara
+44,44,Toyota,Yaris,2010,4-cylinder,Petrol,Automatic,66090,Malabe
+45,45,Kia,Cerato,2022,4-cylinder,Petrol,Automatic,150121,Koswatta
+46,46,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,193001,Pannipitiya
+47,47,Mitsubishi,Lancer,2012,4-cylinder,Petrol,Manual,33563,Kottawa
+48,48,Toyota,Corolla,2013,4-cylinder,Petrol,Manual,276332,Athurugiriya
+49,49,Hyundai,i10,2006,3-cylinder,Petrol,Automatic,54767,Athurugiriya
+50,50,Toyota,Vios,2009,4-cylinder,Petrol,Automatic,278165,Kaduwela
+51,51,Honda,City,2007,4-cylinder,Petrol,Automatic,24185,Sri Jayawardenepura Kotte
+52,52,Suzuki,Alto,2005,3-cylinder,Petrol,Automatic,242864,Pannipitiya
+53,53,Nissan,Sunny,2007,4-cylinder,Petrol,Manual,276537,Thalawathugoda
+54,54,Toyota,Corolla,2018,4-cylinder,Petrol,Manual,231319,Sri Jayawardenepura Kotte
+55,55,Hyundai,i10,2010,3-cylinder,Petrol,Automatic,83369,Koswatta
+56,56,Kia,Cerato,2012,4-cylinder,Petrol,Automatic,127088,Sri Jayawardenepura Kotte
+57,57,Honda,Vezel,2019,4-cylinder,Petrol Hybrid,Automatic,261141,Battaramulla
+58,58,Kia,Cerato,2008,4-cylinder,Petrol,Automatic,94233,Thalawathugoda
+59,59,Perodua,Axia,2018,3-cylinder,Petrol,Automatic,126613,Athurugiriya
+60,60,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,215198,Thalawathugoda
+61,61,Suzuki,Jimny,2006,4-cylinder,Petrol,Manual,214836,Athurugiriya
+62,62,Mitsubishi,Lancer,2016,4-cylinder,Petrol,Manual,279654,Kaduwela
+63,63,Honda,Vezel,2019,4-cylinder,Petrol Hybrid,Automatic,159152,Kaduwela
+64,64,Toyota,Yaris,2019,4-cylinder,Petrol,Automatic,146927,Kottawa
+65,65,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,193057,Kottawa
+66,66,Mitsubishi,Attrage,2019,4-cylinder,Petrol,Automatic,229628,Malabe
+67,67,Mitsubishi,Attrage,2006,4-cylinder,Petrol,Automatic,20646,Hokandara
+68,68,Honda,Grace,2015,4-cylinder,Petrol Hybrid,Automatic,196604,Thalawathugoda
+69,69,Honda,Vezel,2005,4-cylinder,Petrol Hybrid,Automatic,103253,Athurugiriya
+70,70,Toyota,Vios,2008,4-cylinder,Petrol,Automatic,54599,Kottawa
+71,71,Toyota,Vios,2021,4-cylinder,Petrol,Automatic,33831,Nugegoda
+72,72,Toyota,Corolla,2012,4-cylinder,Petrol,Manual,272139,Thalawathugoda
+73,73,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,160086,Thalawathugoda
+74,74,Honda,City,2017,4-cylinder,Petrol,Automatic,67697,Hokandara
+75,75,Mitsubishi,Attrage,2016,4-cylinder,Petrol,Automatic,98206,Athurugiriya
+76,76,Mazda,Demio,2013,4-cylinder,Petrol,Automatic,211361,Hokandara
+77,77,Suzuki,Swift,2007,4-cylinder,Petrol,Manual,225954,Malabe
+78,78,Suzuki,Wagon R,2013,3-cylinder,Petrol,Automatic,20195,Sri Jayawardenepura Kotte
+79,79,Toyota,Hiace,2005,4-cylinder,Diesel,Manual,123641,Athurugiriya
+80,80,Toyota,Axio,2022,4-cylinder,Petrol,Automatic,130451,Malabe
+81,81,Toyota,Premio,2014,4-cylinder,Petrol,Automatic,234256,Battaramulla
+82,82,Tata,Indica,2011,4-cylinder,Petrol,Manual,107521,Malabe
+83,83,Toyota,Yaris,2013,4-cylinder,Petrol,Automatic,49920,Koswatta
+84,84,Honda,Vezel,2006,4-cylinder,Petrol Hybrid,Automatic,215014,Malabe
+85,85,Nissan,Tiida,2009,4-cylinder,Petrol,Automatic,116111,Battaramulla
+86,86,Honda,Civic,2020,4-cylinder,Petrol,Manual,97472,Rajagiriya
+87,87,Nissan,Sunny,2022,4-cylinder,Petrol,Manual,86444,Pannipitiya
+88,88,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,108215,Malabe
+89,89,Kia,Rio,2023,4-cylinder,Petrol,Automatic,250844,Kaduwela
+90,90,Honda,Grace,2012,4-cylinder,Petrol Hybrid,Automatic,82053,Malabe
+91,91,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,134254,Rajagiriya
+92,92,Toyota,Allion,2021,4-cylinder,Petrol,Automatic,214641,Nugegoda
+93,93,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,176902,Malabe
+94,94,Honda,Fit,2016,4-cylinder,Petrol,Automatic,183869,Pannipitiya
+95,95,Hyundai,Elantra,2006,4-cylinder,Petrol,Automatic,94763,Malabe
+96,96,Suzuki,Wagon R,2015,3-cylinder,Petrol,Automatic,189197,Hokandara
+97,97,Suzuki,Swift,2015,4-cylinder,Petrol,Manual,219195,Athurugiriya
+98,98,Toyota,Axio,2011,4-cylinder,Petrol,Automatic,109658,Battaramulla
+99,99,Suzuki,Baleno,2005,4-cylinder,Petrol,Automatic,47742,Hokandara
+100,100,Suzuki,Alto,2007,3-cylinder,Petrol,Automatic,120428,Rajagiriya
+101,101,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,258604,Battaramulla
+102,102,Hyundai,Accent,2017,4-cylinder,Petrol,Manual,86670,Koswatta
+103,103,Hyundai,Accent,2015,4-cylinder,Petrol,Manual,106511,Battaramulla
+104,104,Tata,Indica,2021,4-cylinder,Petrol,Manual,163366,Maharagama
+105,105,Honda,Grace,2005,4-cylinder,Petrol Hybrid,Automatic,223086,Hokandara
+106,106,Toyota,Hiace,2005,4-cylinder,Diesel,Manual,271198,Sri Jayawardenepura Kotte
+107,107,Mitsubishi,Attrage,2022,4-cylinder,Petrol,Automatic,32713,Battaramulla
+108,108,Kia,Rio,2011,4-cylinder,Petrol,Automatic,220141,Nugegoda
+109,109,Toyota,Allion,2012,4-cylinder,Petrol,Automatic,104423,Hokandara
+110,110,Honda,Civic,2010,4-cylinder,Petrol,Manual,161787,Maharagama
+111,111,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,116832,Hokandara
+112,112,Mazda,Demio,2011,4-cylinder,Petrol,Automatic,71606,Thalawathugoda
+113,113,Suzuki,Alto,2013,3-cylinder,Petrol,Automatic,202868,Koswatta
+114,114,Nissan,Sunny,2021,4-cylinder,Petrol,Manual,164198,Kottawa
+115,115,Kia,Cerato,2021,4-cylinder,Petrol,Automatic,160391,Nugegoda
+116,116,Perodua,Myvi,2020,3-cylinder,Petrol,Automatic,19308,Maharagama
+117,117,Perodua,Myvi,2012,3-cylinder,Petrol,Automatic,166159,Thalawathugoda
+118,118,Kia,Rio,2020,4-cylinder,Petrol,Automatic,200009,Kaduwela
+119,119,Toyota,Axio,2021,4-cylinder,Petrol,Automatic,79607,Boralesgamuwa
+120,120,Honda,Fit,2009,4-cylinder,Petrol,Automatic,110323,Thalawathugoda
+121,121,Mitsubishi,Attrage,2012,4-cylinder,Petrol,Automatic,130241,Thalawathugoda
+122,122,Honda,City,2018,4-cylinder,Petrol,Automatic,42440,Rajagiriya
+123,123,Toyota,Premio,2006,4-cylinder,Petrol,Automatic,166619,Pannipitiya
+124,124,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,231898,Boralesgamuwa
+125,125,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,100335,Thalawathugoda
+126,126,Suzuki,Wagon R,2017,3-cylinder,Petrol,Automatic,215335,Koswatta
+127,127,Nissan,Tiida,2005,4-cylinder,Petrol,Automatic,142757,Rajagiriya
+128,128,Suzuki,Alto,2018,3-cylinder,Petrol,Automatic,51894,Thalawathugoda
+129,129,Hyundai,i10,2008,3-cylinder,Petrol,Automatic,115096,Rajagiriya
+130,130,Tata,Indica,2012,4-cylinder,Petrol,Manual,197232,Battaramulla
+131,131,Toyota,Premio,2010,4-cylinder,Petrol,Automatic,55764,Athurugiriya
+132,132,Hyundai,Accent,2023,4-cylinder,Petrol,Manual,167245,Nugegoda
+133,133,Honda,Fit,2023,4-cylinder,Petrol,Automatic,173351,Hokandara
+134,134,Suzuki,Wagon R,2005,3-cylinder,Petrol,Automatic,246891,Thalawathugoda
+135,135,Hyundai,Elantra,2011,4-cylinder,Petrol,Automatic,204486,Hokandara
+136,136,Toyota,Vios,2019,4-cylinder,Petrol,Automatic,67225,Hokandara
+137,137,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,278037,Thalawathugoda
+138,138,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,68448,Hokandara
+139,139,Hyundai,Accent,2023,4-cylinder,Petrol,Manual,215257,Hokandara
+140,140,Suzuki,Swift,2018,4-cylinder,Petrol,Manual,156421,Malabe
+141,141,Suzuki,Jimny,2012,4-cylinder,Petrol,Manual,140910,Koswatta
+142,142,Nissan,Sunny,2019,4-cylinder,Petrol,Manual,73181,Boralesgamuwa
+143,143,Honda,Civic,2016,4-cylinder,Petrol,Manual,228218,Athurugiriya
+144,144,Toyota,Corolla,2022,4-cylinder,Petrol,Manual,190345,Malabe
+145,145,Nissan,Sunny,2021,4-cylinder,Petrol,Manual,62457,Sri Jayawardenepura Kotte
+146,146,Suzuki,Baleno,2011,4-cylinder,Petrol,Automatic,204142,Nugegoda
+147,147,Tata,Indica,2011,4-cylinder,Petrol,Manual,228249,Malabe
+148,148,Suzuki,Baleno,2021,4-cylinder,Petrol,Automatic,165392,Hokandara
+149,149,Toyota,Yaris,2016,4-cylinder,Petrol,Automatic,96804,Athurugiriya
+150,150,Honda,Civic,2006,4-cylinder,Petrol,Manual,35453,Thalawathugoda
+151,151,Mitsubishi,Lancer,2009,4-cylinder,Petrol,Manual,231565,Battaramulla
+152,152,Honda,City,2015,4-cylinder,Petrol,Automatic,169661,Hokandara
+153,153,Toyota,Yaris,2018,4-cylinder,Petrol,Automatic,272285,Koswatta
+154,154,Nissan,Tiida,2008,4-cylinder,Petrol,Automatic,95346,Nugegoda
+155,155,Hyundai,Accent,2022,4-cylinder,Petrol,Manual,224113,Malabe
+156,156,Kia,Rio,2010,4-cylinder,Petrol,Automatic,89756,Rajagiriya
+157,157,Toyota,Yaris,2017,4-cylinder,Petrol,Automatic,198811,Kaduwela
+158,158,Toyota,Allion,2013,4-cylinder,Petrol,Automatic,27967,Hokandara
+159,159,Suzuki,Swift,2009,4-cylinder,Petrol,Manual,246084,Boralesgamuwa
+160,160,Mazda,Demio,2006,4-cylinder,Petrol,Automatic,43389,Hokandara
+161,161,Hyundai,Accent,2005,4-cylinder,Petrol,Manual,38944,Thalawathugoda
+162,162,Toyota,Allion,2016,4-cylinder,Petrol,Automatic,249218,Koswatta
+163,163,Honda,City,2016,4-cylinder,Petrol,Automatic,244298,Rajagiriya
+164,164,Mitsubishi,Attrage,2022,4-cylinder,Petrol,Automatic,155866,Battaramulla
+165,165,Honda,Civic,2023,4-cylinder,Petrol,Manual,188164,Hokandara
+166,166,Honda,Vezel,2009,4-cylinder,Petrol Hybrid,Automatic,247363,Battaramulla
+167,167,Honda,City,2017,4-cylinder,Petrol,Automatic,46748,Athurugiriya
+168,168,Nissan,Tiida,2005,4-cylinder,Petrol,Automatic,173817,Rajagiriya
+169,169,Toyota,Corolla,2005,4-cylinder,Petrol,Manual,59651,Boralesgamuwa
+170,170,Suzuki,Swift,2010,4-cylinder,Petrol,Manual,225992,Boralesgamuwa
+171,171,Mazda,Axela,2015,4-cylinder,Petrol,Automatic,161386,Maharagama
+172,172,Mazda,Axela,2012,4-cylinder,Petrol,Automatic,272134,Rajagiriya
+173,173,Mazda,Axela,2019,4-cylinder,Petrol,Automatic,258098,Nugegoda
+174,174,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,274464,Hokandara
+175,175,Mitsubishi,Lancer,2013,4-cylinder,Petrol,Manual,128507,Battaramulla
+176,176,Suzuki,Alto,2018,3-cylinder,Petrol,Automatic,176297,Battaramulla
+177,177,Suzuki,Jimny,2012,4-cylinder,Petrol,Manual,54787,Kottawa
+178,178,Nissan,Tiida,2020,4-cylinder,Petrol,Automatic,33876,Malabe
+179,179,Honda,Civic,2009,4-cylinder,Petrol,Manual,178469,Thalawathugoda
+180,180,Hyundai,Elantra,2013,4-cylinder,Petrol,Automatic,56709,Kottawa
+181,181,Toyota,Vios,2009,4-cylinder,Petrol,Automatic,86903,Kottawa
+182,182,Perodua,Myvi,2010,3-cylinder,Petrol,Automatic,159549,Thalawathugoda
+183,183,Tata,Indica,2012,4-cylinder,Petrol,Manual,46134,Rajagiriya
+184,184,Hyundai,Elantra,2014,4-cylinder,Petrol,Automatic,41729,Thalawathugoda
+185,185,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,28108,Athurugiriya
+186,186,Suzuki,Baleno,2019,4-cylinder,Petrol,Automatic,250814,Pannipitiya
+187,187,Suzuki,Jimny,2018,4-cylinder,Petrol,Manual,44384,Koswatta
+188,188,Hyundai,Accent,2014,4-cylinder,Petrol,Manual,21797,Hokandara
+189,189,Toyota,Corolla,2022,4-cylinder,Petrol,Manual,79976,Thalawathugoda
+190,190,Mitsubishi,Attrage,2020,4-cylinder,Petrol,Automatic,140907,Koswatta
+191,191,Perodua,Myvi,2011,3-cylinder,Petrol,Automatic,180593,Maharagama
+192,192,Suzuki,Alto,2008,3-cylinder,Petrol,Automatic,89555,Hokandara
+193,193,Toyota,Allion,2018,4-cylinder,Petrol,Automatic,227704,Kottawa
+194,194,Suzuki,Baleno,2013,4-cylinder,Petrol,Automatic,92804,Malabe
+195,195,Suzuki,Alto,2013,3-cylinder,Petrol,Automatic,150667,Malabe
+196,196,Suzuki,Wagon R,2011,3-cylinder,Petrol,Automatic,90848,Rajagiriya
+197,197,Honda,Vezel,2018,4-cylinder,Petrol Hybrid,Automatic,155033,Sri Jayawardenepura Kotte
+198,198,Hyundai,Elantra,2010,4-cylinder,Petrol,Automatic,27986,Athurugiriya
+199,199,Kia,Cerato,2021,4-cylinder,Petrol,Automatic,92282,Athurugiriya
+200,200,Hyundai,Elantra,2020,4-cylinder,Petrol,Automatic,43954,Hokandara
+201,201,Kia,Cerato,2008,4-cylinder,Petrol,Automatic,102902,Nugegoda
+202,202,Toyota,Allion,2022,4-cylinder,Petrol,Automatic,192921,Hokandara
+203,203,Hyundai,Accent,2008,4-cylinder,Petrol,Manual,169550,Hokandara
+204,204,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,141391,Boralesgamuwa
+205,205,Nissan,Almera,2009,4-cylinder,Petrol,Automatic,96954,Battaramulla
+206,206,Perodua,Axia,2006,3-cylinder,Petrol,Automatic,102949,Kaduwela
+207,207,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,230733,Hokandara
+208,208,Toyota,Vios,2018,4-cylinder,Petrol,Automatic,133540,Sri Jayawardenepura Kotte
+209,209,Toyota,Hiace,2007,4-cylinder,Diesel,Manual,53570,Koswatta
+210,210,Perodua,Myvi,2013,3-cylinder,Petrol,Automatic,61855,Athurugiriya
+211,211,Toyota,Allion,2009,4-cylinder,Petrol,Automatic,70480,Malabe
+212,212,Suzuki,Swift,2014,4-cylinder,Petrol,Manual,100454,Malabe
+213,213,Nissan,Almera,2023,4-cylinder,Petrol,Automatic,178197,Thalawathugoda
+214,214,Toyota,Yaris,2020,4-cylinder,Petrol,Automatic,184289,Athurugiriya
+215,215,Nissan,Almera,2022,4-cylinder,Petrol,Automatic,27666,Hokandara
+216,216,Toyota,Hiace,2018,4-cylinder,Diesel,Manual,96839,Boralesgamuwa
+217,217,Mitsubishi,Lancer,2006,4-cylinder,Petrol,Manual,257683,Hokandara
+218,218,Toyota,Vios,2020,4-cylinder,Petrol,Automatic,240018,Hokandara
+219,219,Toyota,Vios,2017,4-cylinder,Petrol,Automatic,106564,Hokandara
+220,220,Hyundai,Accent,2005,4-cylinder,Petrol,Manual,140900,Kaduwela
+221,221,Honda,Fit,2005,4-cylinder,Petrol,Automatic,273787,Thalawathugoda
+222,222,Nissan,Almera,2010,4-cylinder,Petrol,Automatic,151792,Kottawa
+223,223,Suzuki,Baleno,2018,4-cylinder,Petrol,Automatic,271476,Hokandara
+224,224,Suzuki,Alto,2020,3-cylinder,Petrol,Automatic,125633,Athurugiriya
+225,225,Toyota,Corolla,2016,4-cylinder,Petrol,Manual,24729,Battaramulla
+226,226,Mazda,Axela,2015,4-cylinder,Petrol,Automatic,102397,Hokandara
+227,227,Mazda,Axela,2007,4-cylinder,Petrol,Automatic,22683,Hokandara
+228,228,Honda,Civic,2018,4-cylinder,Petrol,Manual,242993,Boralesgamuwa
+229,229,Hyundai,Accent,2007,4-cylinder,Petrol,Manual,124410,Battaramulla
+230,230,Suzuki,Alto,2010,3-cylinder,Petrol,Automatic,152907,Thalawathugoda
+231,231,Hyundai,i10,2019,3-cylinder,Petrol,Automatic,151470,Hokandara
+232,232,Perodua,Axia,2005,3-cylinder,Petrol,Automatic,93962,Hokandara
+233,233,Kia,Rio,2020,4-cylinder,Petrol,Automatic,44219,Athurugiriya
+234,234,Suzuki,Swift,2014,4-cylinder,Petrol,Manual,92592,Rajagiriya
+235,235,Honda,Vezel,2011,4-cylinder,Petrol Hybrid,Automatic,73243,Boralesgamuwa
+236,236,Tata,Indica,2009,4-cylinder,Petrol,Manual,187383,Kottawa
+237,237,Toyota,Hiace,2023,4-cylinder,Diesel,Manual,213399,Hokandara
+238,238,Mazda,Demio,2008,4-cylinder,Petrol,Automatic,118836,Koswatta
+239,239,Perodua,Axia,2019,3-cylinder,Petrol,Automatic,260939,Pannipitiya
+240,240,Nissan,Sunny,2021,4-cylinder,Petrol,Manual,201986,Hokandara
+241,241,Honda,Civic,2005,4-cylinder,Petrol,Manual,142010,Maharagama
+242,242,Toyota,Hiace,2005,4-cylinder,Diesel,Manual,184007,Rajagiriya
+243,243,Perodua,Axia,2021,3-cylinder,Petrol,Automatic,213133,Boralesgamuwa
+244,244,Toyota,Hiace,2008,4-cylinder,Diesel,Manual,257932,Malabe
+245,245,Toyota,Vios,2017,4-cylinder,Petrol,Automatic,206988,Battaramulla
+246,246,Toyota,Yaris,2010,4-cylinder,Petrol,Automatic,113836,Malabe
+247,247,Honda,Vezel,2010,4-cylinder,Petrol Hybrid,Automatic,167685,Boralesgamuwa
+248,248,Honda,Fit,2018,4-cylinder,Petrol,Automatic,233288,Sri Jayawardenepura Kotte
+249,249,Nissan,Almera,2007,4-cylinder,Petrol,Automatic,202197,Hokandara
+250,250,Nissan,Sunny,2012,4-cylinder,Petrol,Manual,118269,Maharagama
+251,251,Honda,City,2016,4-cylinder,Petrol,Automatic,132142,Sri Jayawardenepura Kotte
+252,252,Honda,City,2009,4-cylinder,Petrol,Automatic,33593,Nugegoda
+253,253,Nissan,Tiida,2019,4-cylinder,Petrol,Automatic,113667,Malabe
+254,254,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,124173,Hokandara
+255,255,Mitsubishi,Lancer,2005,4-cylinder,Petrol,Manual,22399,Athurugiriya
+256,256,Hyundai,Accent,2019,4-cylinder,Petrol,Manual,109776,Hokandara
+257,257,Nissan,Almera,2005,4-cylinder,Petrol,Automatic,100886,Battaramulla
+258,258,Hyundai,Elantra,2014,4-cylinder,Petrol,Automatic,279989,Battaramulla
+259,259,Toyota,Axio,2017,4-cylinder,Petrol,Automatic,177224,Kaduwela
+260,260,Toyota,Premio,2017,4-cylinder,Petrol,Automatic,130196,Hokandara
+261,261,Honda,Civic,2010,4-cylinder,Petrol,Manual,263304,Koswatta
+262,262,Suzuki,Baleno,2017,4-cylinder,Petrol,Automatic,102231,Athurugiriya
+263,263,Suzuki,Alto,2010,3-cylinder,Petrol,Automatic,195904,Maharagama
+264,264,Honda,Civic,2017,4-cylinder,Petrol,Manual,137305,Thalawathugoda
+265,265,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,240510,Thalawathugoda
+266,266,Nissan,Sunny,2021,4-cylinder,Petrol,Manual,118091,Hokandara
+267,267,Tata,Indica,2009,4-cylinder,Petrol,Manual,131305,Pannipitiya
+268,268,Suzuki,Baleno,2016,4-cylinder,Petrol,Automatic,230019,Hokandara
+269,269,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,175877,Nugegoda
+270,270,Honda,Grace,2009,4-cylinder,Petrol Hybrid,Automatic,154328,Maharagama
+271,271,Toyota,Vios,2010,4-cylinder,Petrol,Automatic,242502,Battaramulla
+272,272,Toyota,Corolla,2005,4-cylinder,Petrol,Manual,240765,Pannipitiya
+273,273,Toyota,Allion,2023,4-cylinder,Petrol,Automatic,174937,Thalawathugoda
+274,274,Suzuki,Wagon R,2008,3-cylinder,Petrol,Automatic,207881,Thalawathugoda
+275,275,Suzuki,Jimny,2009,4-cylinder,Petrol,Manual,122400,Battaramulla
+276,276,Hyundai,Accent,2012,4-cylinder,Petrol,Manual,22590,Koswatta
+277,277,Honda,Civic,2013,4-cylinder,Petrol,Manual,242964,Thalawathugoda
+278,278,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,164706,Malabe
+279,279,Suzuki,Alto,2006,3-cylinder,Petrol,Automatic,79361,Hokandara
+280,280,Toyota,Hiace,2006,4-cylinder,Diesel,Manual,275361,Battaramulla
+281,281,Suzuki,Alto,2011,3-cylinder,Petrol,Automatic,96053,Kaduwela
+282,282,Suzuki,Wagon R,2012,3-cylinder,Petrol,Automatic,172199,Hokandara
+283,283,Mitsubishi,Attrage,2013,4-cylinder,Petrol,Automatic,88319,Malabe
+284,284,Mazda,Demio,2009,4-cylinder,Petrol,Automatic,54977,Boralesgamuwa
+285,285,Perodua,Myvi,2007,3-cylinder,Petrol,Automatic,31927,Hokandara
+286,286,Tata,Indica,2010,4-cylinder,Petrol,Manual,46705,Malabe
+287,287,Tata,Indica,2016,4-cylinder,Petrol,Manual,110268,Athurugiriya
+288,288,Mitsubishi,Attrage,2021,4-cylinder,Petrol,Automatic,174099,Kottawa
+289,289,Toyota,Yaris,2019,4-cylinder,Petrol,Automatic,177156,Rajagiriya
+290,290,Toyota,Corolla,2016,4-cylinder,Petrol,Manual,215325,Kaduwela
+291,291,Toyota,Axio,2012,4-cylinder,Petrol,Automatic,218140,Malabe
+292,292,Nissan,Tiida,2008,4-cylinder,Petrol,Automatic,124019,Athurugiriya
+293,293,Toyota,Allion,2017,4-cylinder,Petrol,Automatic,217992,Thalawathugoda
+294,294,Kia,Rio,2022,4-cylinder,Petrol,Automatic,144125,Pannipitiya
+295,295,Suzuki,Baleno,2020,4-cylinder,Petrol,Automatic,70870,Thalawathugoda
+296,296,Toyota,Hiace,2013,4-cylinder,Diesel,Manual,179662,Athurugiriya
+297,297,Suzuki,Swift,2020,4-cylinder,Petrol,Manual,253232,Malabe
+298,298,Tata,Indica,2022,4-cylinder,Petrol,Manual,52748,Nugegoda
+299,299,Mitsubishi,Lancer,2007,4-cylinder,Petrol,Manual,37369,Hokandara
+300,300,Perodua,Axia,2022,3-cylinder,Petrol,Automatic,179375,Battaramulla
+301,301,Mitsubishi,Attrage,2006,4-cylinder,Petrol,Automatic,115370,Nugegoda
+302,302,Honda,City,2022,4-cylinder,Petrol,Automatic,220905,Pannipitiya
+303,303,Mazda,Demio,2008,4-cylinder,Petrol,Automatic,184441,Battaramulla
+304,304,Suzuki,Swift,2008,4-cylinder,Petrol,Manual,133998,Hokandara
+305,305,Nissan,Sunny,2019,4-cylinder,Petrol,Manual,136760,Malabe
+306,306,Mazda,Axela,2010,4-cylinder,Petrol,Automatic,272718,Hokandara
+307,307,Hyundai,i10,2009,3-cylinder,Petrol,Automatic,179500,Maharagama
+308,308,Suzuki,Swift,2018,4-cylinder,Petrol,Manual,160541,Athurugiriya
+309,309,Honda,Civic,2017,4-cylinder,Petrol,Manual,195587,Sri Jayawardenepura Kotte
+310,310,Suzuki,Jimny,2005,4-cylinder,Petrol,Manual,136524,Kaduwela
+311,311,Mazda,Axela,2016,4-cylinder,Petrol,Automatic,107661,Kaduwela
+312,312,Toyota,Yaris,2012,4-cylinder,Petrol,Automatic,50624,Koswatta
+313,313,Kia,Rio,2020,4-cylinder,Petrol,Automatic,59608,Hokandara
+314,314,Mitsubishi,Attrage,2011,4-cylinder,Petrol,Automatic,183096,Battaramulla
+315,315,Mitsubishi,Lancer,2008,4-cylinder,Petrol,Manual,270428,Koswatta
+316,316,Tata,Indica,2019,4-cylinder,Petrol,Manual,192260,Battaramulla
+317,317,Toyota,Allion,2006,4-cylinder,Petrol,Automatic,273311,Hokandara
+318,318,Hyundai,i10,2022,3-cylinder,Petrol,Automatic,214512,Thalawathugoda
+319,319,Nissan,Almera,2023,4-cylinder,Petrol,Automatic,30957,Boralesgamuwa
+320,320,Mitsubishi,Lancer,2012,4-cylinder,Petrol,Manual,265434,Athurugiriya
+321,321,Nissan,Sunny,2023,4-cylinder,Petrol,Manual,243835,Boralesgamuwa
+322,322,Toyota,Premio,2016,4-cylinder,Petrol,Automatic,191032,Battaramulla
+323,323,Kia,Cerato,2014,4-cylinder,Petrol,Automatic,221990,Hokandara
+324,324,Suzuki,Swift,2008,4-cylinder,Petrol,Manual,142085,Maharagama
+325,325,Honda,City,2012,4-cylinder,Petrol,Automatic,264032,Malabe
+326,326,Suzuki,Jimny,2020,4-cylinder,Petrol,Manual,238537,Rajagiriya
+327,327,Suzuki,Jimny,2017,4-cylinder,Petrol,Manual,164170,Malabe
+328,328,Nissan,Sunny,2005,4-cylinder,Petrol,Manual,119785,Malabe
+329,329,Toyota,Hiace,2020,4-cylinder,Diesel,Manual,159517,Hokandara
+330,330,Suzuki,Wagon R,2016,3-cylinder,Petrol,Automatic,187218,Koswatta
+331,331,Toyota,Premio,2023,4-cylinder,Petrol,Automatic,185815,Thalawathugoda
+332,332,Toyota,Yaris,2006,4-cylinder,Petrol,Automatic,158968,Maharagama
+333,333,Toyota,Corolla,2007,4-cylinder,Petrol,Manual,275700,Battaramulla
+334,334,Mitsubishi,Attrage,2019,4-cylinder,Petrol,Automatic,112968,Malabe
+335,335,Suzuki,Swift,2018,4-cylinder,Petrol,Manual,196892,Boralesgamuwa
+336,336,Nissan,Sunny,2019,4-cylinder,Petrol,Manual,43059,Pannipitiya
+337,337,Mitsubishi,Lancer,2021,4-cylinder,Petrol,Manual,51634,Kottawa
+338,338,Kia,Cerato,2013,4-cylinder,Petrol,Automatic,123820,Battaramulla
+339,339,Perodua,Myvi,2007,3-cylinder,Petrol,Automatic,190755,Rajagiriya
+340,340,Toyota,Vios,2005,4-cylinder,Petrol,Automatic,129049,Hokandara
+341,341,Suzuki,Swift,2014,4-cylinder,Petrol,Manual,46572,Thalawathugoda
+342,342,Suzuki,Wagon R,2021,3-cylinder,Petrol,Automatic,88737,Kottawa
+343,343,Mitsubishi,Attrage,2007,4-cylinder,Petrol,Automatic,157697,Pannipitiya
+344,344,Honda,Civic,2010,4-cylinder,Petrol,Manual,90144,Malabe
+345,345,Hyundai,Elantra,2022,4-cylinder,Petrol,Automatic,231977,Kaduwela
+346,346,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,91083,Pannipitiya
+347,347,Tata,Indica,2013,4-cylinder,Petrol,Manual,23934,Hokandara
+348,348,Hyundai,i10,2005,3-cylinder,Petrol,Automatic,45953,Athurugiriya
+349,349,Suzuki,Swift,2019,4-cylinder,Petrol,Manual,108408,Athurugiriya
+350,350,Hyundai,Accent,2014,4-cylinder,Petrol,Manual,58616,Malabe
+351,351,Toyota,Corolla,2008,4-cylinder,Petrol,Manual,129703,Hokandara
+352,352,Tata,Indica,2017,4-cylinder,Petrol,Manual,234324,Hokandara
+353,353,Toyota,Vios,2009,4-cylinder,Petrol,Automatic,179511,Rajagiriya
+354,354,Toyota,Hiace,2023,4-cylinder,Diesel,Manual,88427,Malabe
+355,355,Nissan,Sunny,2018,4-cylinder,Petrol,Manual,238706,Hokandara
+356,356,Mitsubishi,Lancer,2016,4-cylinder,Petrol,Manual,276050,Thalawathugoda
+357,357,Honda,City,2013,4-cylinder,Petrol,Automatic,165110,Malabe
+358,358,Nissan,Sunny,2013,4-cylinder,Petrol,Manual,222798,Malabe
+359,359,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,49964,Kaduwela
+360,360,Nissan,Almera,2019,4-cylinder,Petrol,Automatic,178234,Thalawathugoda
+361,361,Toyota,Corolla,2015,4-cylinder,Petrol,Manual,159333,Kottawa
+362,362,Suzuki,Swift,2022,4-cylinder,Petrol,Manual,154354,Battaramulla
+363,363,Toyota,Allion,2013,4-cylinder,Petrol,Automatic,260958,Hokandara
+364,364,Kia,Rio,2020,4-cylinder,Petrol,Automatic,241317,Thalawathugoda
+365,365,Kia,Rio,2014,4-cylinder,Petrol,Automatic,41975,Kaduwela
+366,366,Toyota,Corolla,2005,4-cylinder,Petrol,Manual,255077,Koswatta
+367,367,Honda,Vezel,2009,4-cylinder,Petrol Hybrid,Automatic,189492,Maharagama
+368,368,Toyota,Hiace,2005,4-cylinder,Diesel,Manual,253579,Sri Jayawardenepura Kotte
+369,369,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,81211,Athurugiriya
+370,370,Nissan,Tiida,2007,4-cylinder,Petrol,Automatic,265806,Rajagiriya
+371,371,Honda,Vezel,2009,4-cylinder,Petrol Hybrid,Automatic,40080,Kottawa
+372,372,Mitsubishi,Lancer,2015,4-cylinder,Petrol,Manual,217876,Battaramulla
+373,373,Suzuki,Jimny,2019,4-cylinder,Petrol,Manual,80814,Thalawathugoda
+374,374,Toyota,Vios,2012,4-cylinder,Petrol,Automatic,162152,Hokandara
+375,375,Toyota,Hiace,2023,4-cylinder,Diesel,Manual,207413,Hokandara
+376,376,Nissan,Sunny,2018,4-cylinder,Petrol,Manual,191608,Maharagama
+377,377,Mitsubishi,Lancer,2016,4-cylinder,Petrol,Manual,42473,Hokandara
+378,378,Honda,City,2013,4-cylinder,Petrol,Automatic,127788,Malabe
+379,379,Mitsubishi,Lancer,2017,4-cylinder,Petrol,Manual,29389,Hokandara
+380,380,Nissan,Tiida,2014,4-cylinder,Petrol,Automatic,172299,Battaramulla
+381,381,Honda,Grace,2013,4-cylinder,Petrol Hybrid,Automatic,251299,Battaramulla
+382,382,Honda,Vezel,2013,4-cylinder,Petrol Hybrid,Automatic,238117,Athurugiriya
+383,383,Nissan,Tiida,2006,4-cylinder,Petrol,Automatic,178456,Boralesgamuwa
+384,384,Toyota,Premio,2018,4-cylinder,Petrol,Automatic,66858,Hokandara
+385,385,Mitsubishi,Attrage,2011,4-cylinder,Petrol,Automatic,229080,Nugegoda
+386,386,Suzuki,Swift,2018,4-cylinder,Petrol,Manual,90878,Athurugiriya
+387,387,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,151076,Koswatta
+388,388,Hyundai,i10,2008,3-cylinder,Petrol,Automatic,183804,Malabe
+389,389,Honda,Vezel,2015,4-cylinder,Petrol Hybrid,Automatic,210689,Hokandara
+390,390,Mitsubishi,Lancer,2018,4-cylinder,Petrol,Manual,151532,Boralesgamuwa
+391,391,Kia,Rio,2009,4-cylinder,Petrol,Automatic,65093,Malabe
+392,392,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,101699,Athurugiriya
+393,393,Mazda,Axela,2013,4-cylinder,Petrol,Automatic,202374,Malabe
+394,394,Hyundai,i10,2015,3-cylinder,Petrol,Automatic,205822,Maharagama
+395,395,Toyota,Vios,2010,4-cylinder,Petrol,Automatic,202048,Rajagiriya
+396,396,Honda,City,2018,4-cylinder,Petrol,Automatic,197665,Nugegoda
+397,397,Tata,Indica,2018,4-cylinder,Petrol,Manual,237270,Pannipitiya
+398,398,Nissan,Almera,2012,4-cylinder,Petrol,Automatic,192671,Hokandara
+399,399,Toyota,Corolla,2018,4-cylinder,Petrol,Manual,182070,Boralesgamuwa
+400,400,Hyundai,i10,2020,3-cylinder,Petrol,Automatic,58064,Kottawa
+401,401,Suzuki,Baleno,2015,4-cylinder,Petrol,Automatic,158950,Hokandara
+402,402,Suzuki,Jimny,2006,4-cylinder,Petrol,Manual,73698,Battaramulla
+403,403,Honda,Civic,2022,4-cylinder,Petrol,Manual,47680,Maharagama
+404,404,Toyota,Vios,2012,4-cylinder,Petrol,Automatic,100924,Pannipitiya
+405,405,Toyota,Vios,2017,4-cylinder,Petrol,Automatic,222995,Thalawathugoda
+406,406,Hyundai,Elantra,2019,4-cylinder,Petrol,Automatic,62133,Kaduwela
+407,407,Kia,Cerato,2011,4-cylinder,Petrol,Automatic,229664,Malabe
+408,408,Suzuki,Jimny,2022,4-cylinder,Petrol,Manual,171585,Athurugiriya
+409,409,Tata,Indica,2013,4-cylinder,Petrol,Manual,131097,Maharagama
+410,410,Suzuki,Baleno,2018,4-cylinder,Petrol,Automatic,56659,Malabe
+411,411,Tata,Indica,2016,4-cylinder,Petrol,Manual,110171,Athurugiriya
+412,412,Toyota,Allion,2005,4-cylinder,Petrol,Automatic,112465,Hokandara
+413,413,Honda,Vezel,2015,4-cylinder,Petrol Hybrid,Automatic,142753,Malabe
+414,414,Suzuki,Jimny,2015,4-cylinder,Petrol,Manual,30398,Hokandara
+415,415,Nissan,Sunny,2008,4-cylinder,Petrol,Manual,59439,Battaramulla
+416,416,Perodua,Axia,2011,3-cylinder,Petrol,Automatic,156558,Nugegoda
+417,417,Suzuki,Alto,2014,3-cylinder,Petrol,Automatic,94640,Pannipitiya
+418,418,Tata,Indica,2011,4-cylinder,Petrol,Manual,103696,Nugegoda
+419,419,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,207594,Thalawathugoda
+420,420,Mitsubishi,Lancer,2018,4-cylinder,Petrol,Manual,26611,Hokandara
+421,421,Suzuki,Wagon R,2010,3-cylinder,Petrol,Automatic,50352,Athurugiriya
+422,422,Toyota,Yaris,2023,4-cylinder,Petrol,Automatic,118842,Athurugiriya
+423,423,Suzuki,Swift,2010,4-cylinder,Petrol,Manual,183498,Pannipitiya
+424,424,Kia,Cerato,2018,4-cylinder,Petrol,Automatic,87894,Hokandara
+425,425,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,246717,Battaramulla
+426,426,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,221353,Hokandara
+427,427,Mitsubishi,Lancer,2014,4-cylinder,Petrol,Manual,76023,Battaramulla
+428,428,Mitsubishi,Lancer,2013,4-cylinder,Petrol,Manual,72836,Hokandara
+429,429,Suzuki,Jimny,2007,4-cylinder,Petrol,Manual,248496,Hokandara
+430,430,Suzuki,Swift,2009,4-cylinder,Petrol,Manual,185209,Malabe
+431,431,Honda,Vezel,2005,4-cylinder,Petrol Hybrid,Automatic,196700,Thalawathugoda
+432,432,Suzuki,Alto,2014,3-cylinder,Petrol,Automatic,86889,Sri Jayawardenepura Kotte
+433,433,Hyundai,Elantra,2014,4-cylinder,Petrol,Automatic,160176,Maharagama
+434,434,Honda,Fit,2006,4-cylinder,Petrol,Automatic,193815,Maharagama
+435,435,Mitsubishi,Lancer,2019,4-cylinder,Petrol,Manual,205487,Athurugiriya
+436,436,Toyota,Hiace,2017,4-cylinder,Diesel,Manual,84321,Boralesgamuwa
+437,437,Suzuki,Wagon R,2011,3-cylinder,Petrol,Automatic,180067,Pannipitiya
+438,438,Suzuki,Jimny,2006,4-cylinder,Petrol,Manual,74283,Athurugiriya
+439,439,Hyundai,Elantra,2016,4-cylinder,Petrol,Automatic,102626,Athurugiriya
+440,440,Nissan,Almera,2015,4-cylinder,Petrol,Automatic,131595,Pannipitiya
+441,441,Toyota,Yaris,2018,4-cylinder,Petrol,Automatic,266556,Kottawa
+442,442,Mitsubishi,Lancer,2015,4-cylinder,Petrol,Manual,112580,Hokandara
+443,443,Tata,Indica,2011,4-cylinder,Petrol,Manual,272499,Kaduwela
+444,444,Hyundai,Accent,2022,4-cylinder,Petrol,Manual,142414,Hokandara
+445,445,Toyota,Hiace,2022,4-cylinder,Diesel,Manual,154084,Boralesgamuwa
+446,446,Nissan,Sunny,2009,4-cylinder,Petrol,Manual,96534,Rajagiriya
+447,447,Honda,Grace,2017,4-cylinder,Petrol Hybrid,Automatic,20033,Athurugiriya
+448,448,Kia,Rio,2021,4-cylinder,Petrol,Automatic,267067,Athurugiriya
+449,449,Toyota,Axio,2013,4-cylinder,Petrol,Automatic,160516,Battaramulla
+450,450,Perodua,Myvi,2013,3-cylinder,Petrol,Automatic,29982,Sri Jayawardenepura Kotte
+451,451,Tata,Indica,2018,4-cylinder,Petrol,Manual,133482,Hokandara
+452,452,Honda,City,2012,4-cylinder,Petrol,Automatic,242606,Boralesgamuwa
+453,453,Toyota,Premio,2010,4-cylinder,Petrol,Automatic,271473,Thalawathugoda
+454,454,Kia,Rio,2015,4-cylinder,Petrol,Automatic,160805,Malabe
+455,455,Suzuki,Baleno,2008,4-cylinder,Petrol,Automatic,59540,Boralesgamuwa
+456,456,Mitsubishi,Attrage,2007,4-cylinder,Petrol,Automatic,18785,Malabe
+457,457,Toyota,Corolla,2019,4-cylinder,Petrol,Manual,215143,Nugegoda
+458,458,Toyota,Axio,2017,4-cylinder,Petrol,Automatic,30901,Koswatta
+459,459,Nissan,Tiida,2022,4-cylinder,Petrol,Automatic,128952,Hokandara
+460,460,Nissan,Sunny,2016,4-cylinder,Petrol,Manual,267781,Kottawa
+461,461,Mitsubishi,Attrage,2012,4-cylinder,Petrol,Automatic,241856,Kottawa
+462,462,Toyota,Allion,2009,4-cylinder,Petrol,Automatic,220631,Thalawathugoda
+463,463,Toyota,Axio,2006,4-cylinder,Petrol,Automatic,175670,Kottawa
+464,464,Kia,Cerato,2006,4-cylinder,Petrol,Automatic,121518,Hokandara
+465,465,Nissan,Sunny,2023,4-cylinder,Petrol,Manual,175960,Koswatta
+466,466,Tata,Indica,2015,4-cylinder,Petrol,Manual,28086,Pannipitiya
+467,467,Suzuki,Baleno,2009,4-cylinder,Petrol,Automatic,152296,Koswatta
+468,468,Toyota,Corolla,2016,4-cylinder,Petrol,Manual,199001,Athurugiriya
+469,469,Hyundai,i10,2008,3-cylinder,Petrol,Automatic,196493,Kaduwela
+470,470,Toyota,Premio,2017,4-cylinder,Petrol,Automatic,58935,Thalawathugoda
+471,471,Toyota,Corolla,2014,4-cylinder,Petrol,Manual,215180,Hokandara
+472,472,Toyota,Allion,2011,4-cylinder,Petrol,Automatic,211746,Hokandara
+473,473,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,217614,Malabe
+474,474,Honda,Vezel,2012,4-cylinder,Petrol Hybrid,Automatic,265460,Rajagiriya
+475,475,Toyota,Vios,2012,4-cylinder,Petrol,Automatic,97379,Rajagiriya
+476,476,Suzuki,Jimny,2014,4-cylinder,Petrol,Manual,75669,Battaramulla
+477,477,Nissan,Sunny,2017,4-cylinder,Petrol,Manual,224476,Maharagama
+478,478,Kia,Cerato,2009,4-cylinder,Petrol,Automatic,269887,Koswatta
+479,479,Hyundai,Elantra,2016,4-cylinder,Petrol,Automatic,221581,Thalawathugoda
+480,480,Toyota,Allion,2023,4-cylinder,Petrol,Automatic,215808,Maharagama
+481,481,Kia,Rio,2018,4-cylinder,Petrol,Automatic,59036,Thalawathugoda
+482,482,Toyota,Axio,2023,4-cylinder,Petrol,Automatic,64419,Boralesgamuwa
+483,483,Suzuki,Swift,2019,4-cylinder,Petrol,Manual,176109,Thalawathugoda
+484,484,Nissan,Sunny,2007,4-cylinder,Petrol,Manual,102155,Boralesgamuwa
+485,485,Toyota,Allion,2012,4-cylinder,Petrol,Automatic,119939,Sri Jayawardenepura Kotte
+486,486,Suzuki,Jimny,2013,4-cylinder,Petrol,Manual,217240,Koswatta
+487,487,Hyundai,Elantra,2010,4-cylinder,Petrol,Automatic,219143,Athurugiriya
+488,488,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,63034,Thalawathugoda
+489,489,Toyota,Yaris,2005,4-cylinder,Petrol,Automatic,21158,Hokandara
+490,490,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,252632,Boralesgamuwa
+491,491,Nissan,Sunny,2013,4-cylinder,Petrol,Manual,192313,Battaramulla
+492,492,Nissan,Almera,2006,4-cylinder,Petrol,Automatic,18925,Battaramulla
+493,493,Mitsubishi,Attrage,2017,4-cylinder,Petrol,Automatic,267407,Maharagama
+494,494,Toyota,Allion,2011,4-cylinder,Petrol,Automatic,98796,Rajagiriya
+495,495,Toyota,Yaris,2008,4-cylinder,Petrol,Automatic,205636,Koswatta
+496,496,Honda,Grace,2023,4-cylinder,Petrol Hybrid,Automatic,96224,Pannipitiya
+497,497,Honda,Civic,2020,4-cylinder,Petrol,Manual,230149,Athurugiriya
+498,498,Suzuki,Alto,2022,3-cylinder,Petrol,Automatic,219672,Hokandara
+499,499,Hyundai,Accent,2019,4-cylinder,Petrol,Manual,225944,Thalawathugoda
+500,500,Suzuki,Jimny,2022,4-cylinder,Petrol,Manual,78443,Thalawathugoda
+501,501,Perodua,Myvi,2008,3-cylinder,Petrol,Automatic,273045,Sri Jayawardenepura Kotte
+502,502,Perodua,Myvi,2015,3-cylinder,Petrol,Automatic,258830,Kaduwela
+503,503,Toyota,Yaris,2009,4-cylinder,Petrol,Automatic,162637,Athurugiriya
+504,504,Honda,City,2016,4-cylinder,Petrol,Automatic,20329,Thalawathugoda
+505,505,Honda,Vezel,2013,4-cylinder,Petrol Hybrid,Automatic,75944,Hokandara
+506,506,Mazda,Demio,2008,4-cylinder,Petrol,Automatic,83753,Thalawathugoda
+507,507,Mitsubishi,Attrage,2011,4-cylinder,Petrol,Automatic,232896,Hokandara
+508,508,Toyota,Yaris,2005,4-cylinder,Petrol,Automatic,52089,Malabe
+509,509,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,96663,Thalawathugoda
+510,510,Honda,Civic,2021,4-cylinder,Petrol,Manual,40184,Hokandara
+511,511,Nissan,Tiida,2009,4-cylinder,Petrol,Automatic,210679,Hokandara
+512,512,Honda,Civic,2007,4-cylinder,Petrol,Manual,129213,Malabe
+513,513,Nissan,Sunny,2005,4-cylinder,Petrol,Manual,199981,Hokandara
+514,514,Perodua,Axia,2011,3-cylinder,Petrol,Automatic,46935,Thalawathugoda
+515,515,Mazda,Demio,2015,4-cylinder,Petrol,Automatic,209664,Athurugiriya
+516,516,Toyota,Hiace,2008,4-cylinder,Diesel,Manual,256986,Rajagiriya
+517,517,Toyota,Vios,2017,4-cylinder,Petrol,Automatic,35459,Thalawathugoda
+518,518,Mazda,Demio,2020,4-cylinder,Petrol,Automatic,228371,Pannipitiya
+519,519,Nissan,Sunny,2019,4-cylinder,Petrol,Manual,70775,Battaramulla
+520,520,Hyundai,Elantra,2022,4-cylinder,Petrol,Automatic,33100,Athurugiriya
+521,521,Mazda,Demio,2012,4-cylinder,Petrol,Automatic,109150,Hokandara
+522,522,Toyota,Yaris,2023,4-cylinder,Petrol,Automatic,89778,Athurugiriya
+523,523,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,150579,Battaramulla
+524,524,Honda,City,2022,4-cylinder,Petrol,Automatic,228041,Nugegoda
+525,525,Suzuki,Wagon R,2010,3-cylinder,Petrol,Automatic,268114,Malabe
+526,526,Honda,City,2016,4-cylinder,Petrol,Automatic,213892,Athurugiriya
+527,527,Hyundai,Elantra,2023,4-cylinder,Petrol,Automatic,234329,Athurugiriya
+528,528,Honda,Civic,2019,4-cylinder,Petrol,Manual,246906,Koswatta
+529,529,Suzuki,Baleno,2005,4-cylinder,Petrol,Automatic,185119,Nugegoda
+530,530,Mazda,Demio,2006,4-cylinder,Petrol,Automatic,52063,Malabe
+531,531,Toyota,Vios,2005,4-cylinder,Petrol,Automatic,48155,Athurugiriya
+532,532,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,191327,Hokandara
+533,533,Suzuki,Jimny,2018,4-cylinder,Petrol,Manual,246593,Kottawa
+534,534,Toyota,Vios,2021,4-cylinder,Petrol,Automatic,100451,Battaramulla
+535,535,Nissan,Tiida,2023,4-cylinder,Petrol,Automatic,191325,Athurugiriya
+536,536,Toyota,Hiace,2019,4-cylinder,Diesel,Manual,100816,Thalawathugoda
+537,537,Hyundai,Elantra,2005,4-cylinder,Petrol,Automatic,262046,Malabe
+538,538,Toyota,Vios,2009,4-cylinder,Petrol,Automatic,233635,Rajagiriya
+539,539,Perodua,Myvi,2012,3-cylinder,Petrol,Automatic,196392,Boralesgamuwa
+540,540,Toyota,Allion,2021,4-cylinder,Petrol,Automatic,141915,Boralesgamuwa
+541,541,Tata,Indica,2007,4-cylinder,Petrol,Manual,176591,Athurugiriya
+542,542,Hyundai,Elantra,2013,4-cylinder,Petrol,Automatic,30882,Sri Jayawardenepura Kotte
+543,543,Honda,City,2008,4-cylinder,Petrol,Automatic,116271,Maharagama
+544,544,Toyota,Allion,2023,4-cylinder,Petrol,Automatic,144016,Kaduwela
+545,545,Suzuki,Swift,2008,4-cylinder,Petrol,Manual,160674,Boralesgamuwa
+546,546,Kia,Rio,2019,4-cylinder,Petrol,Automatic,251959,Boralesgamuwa
+547,547,Perodua,Myvi,2006,3-cylinder,Petrol,Automatic,185962,Koswatta
+548,548,Suzuki,Swift,2013,4-cylinder,Petrol,Manual,266860,Athurugiriya
+549,549,Nissan,Almera,2007,4-cylinder,Petrol,Automatic,209328,Kaduwela
+550,550,Mitsubishi,Attrage,2021,4-cylinder,Petrol,Automatic,64949,Hokandara
+551,551,Toyota,Premio,2021,4-cylinder,Petrol,Automatic,228127,Kaduwela
+552,552,Suzuki,Swift,2021,4-cylinder,Petrol,Manual,165348,Sri Jayawardenepura Kotte
+553,553,Toyota,Allion,2010,4-cylinder,Petrol,Automatic,131819,Hokandara
+554,554,Hyundai,Accent,2015,4-cylinder,Petrol,Manual,18352,Rajagiriya
+555,555,Hyundai,Accent,2011,4-cylinder,Petrol,Manual,196644,Kaduwela
+556,556,Nissan,Almera,2020,4-cylinder,Petrol,Automatic,262808,Koswatta
+557,557,Tata,Indica,2014,4-cylinder,Petrol,Manual,140866,Sri Jayawardenepura Kotte
+558,558,Mazda,Demio,2021,4-cylinder,Petrol,Automatic,20943,Koswatta
+559,559,Toyota,Axio,2009,4-cylinder,Petrol,Automatic,178137,Boralesgamuwa
+560,560,Honda,Civic,2013,4-cylinder,Petrol,Manual,82631,Maharagama
+561,561,Suzuki,Swift,2018,4-cylinder,Petrol,Manual,121984,Malabe
+562,562,Toyota,Axio,2008,4-cylinder,Petrol,Automatic,220479,Rajagiriya
+563,563,Toyota,Yaris,2005,4-cylinder,Petrol,Automatic,225096,Hokandara
+564,564,Toyota,Vios,2014,4-cylinder,Petrol,Automatic,52969,Boralesgamuwa
+565,565,Suzuki,Baleno,2016,4-cylinder,Petrol,Automatic,74944,Thalawathugoda
+566,566,Nissan,Sunny,2011,4-cylinder,Petrol,Manual,100846,Malabe
+567,567,Suzuki,Swift,2023,4-cylinder,Petrol,Manual,96949,Battaramulla
+568,568,Mazda,Axela,2018,4-cylinder,Petrol,Automatic,132088,Battaramulla
+569,569,Suzuki,Wagon R,2006,3-cylinder,Petrol,Automatic,137022,Nugegoda
+570,570,Toyota,Hiace,2017,4-cylinder,Diesel,Manual,137133,Hokandara
+571,571,Toyota,Premio,2022,4-cylinder,Petrol,Automatic,95348,Nugegoda
+572,572,Suzuki,Baleno,2023,4-cylinder,Petrol,Automatic,70651,Athurugiriya
+573,573,Hyundai,Elantra,2019,4-cylinder,Petrol,Automatic,56889,Kaduwela
+574,574,Toyota,Yaris,2007,4-cylinder,Petrol,Automatic,248478,Pannipitiya
+575,575,Hyundai,Accent,2022,4-cylinder,Petrol,Manual,159636,Athurugiriya
+576,576,Toyota,Corolla,2012,4-cylinder,Petrol,Manual,163713,Hokandara
+577,577,Toyota,Corolla,2007,4-cylinder,Petrol,Manual,33076,Athurugiriya
+578,578,Suzuki,Alto,2010,3-cylinder,Petrol,Automatic,101978,Hokandara
+579,579,Toyota,Vios,2005,4-cylinder,Petrol,Automatic,33877,Kaduwela
+580,580,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,184860,Rajagiriya
+581,581,Suzuki,Jimny,2007,4-cylinder,Petrol,Manual,80857,Boralesgamuwa
+582,582,Toyota,Axio,2015,4-cylinder,Petrol,Automatic,273114,Malabe
+583,583,Nissan,Sunny,2008,4-cylinder,Petrol,Manual,216136,Battaramulla
+584,584,Toyota,Hiace,2016,4-cylinder,Diesel,Manual,228589,Hokandara
+585,585,Hyundai,Accent,2010,4-cylinder,Petrol,Manual,131592,Athurugiriya
+586,586,Nissan,Tiida,2005,4-cylinder,Petrol,Automatic,240036,Sri Jayawardenepura Kotte
+587,587,Nissan,Tiida,2016,4-cylinder,Petrol,Automatic,230832,Thalawathugoda
+588,588,Suzuki,Wagon R,2006,3-cylinder,Petrol,Automatic,264689,Maharagama
+589,589,Honda,Vezel,2017,4-cylinder,Petrol Hybrid,Automatic,85582,Thalawathugoda
+590,590,Toyota,Corolla,2022,4-cylinder,Petrol,Manual,58721,Rajagiriya
+591,591,Suzuki,Jimny,2016,4-cylinder,Petrol,Manual,18892,Kaduwela
+592,592,Kia,Rio,2021,4-cylinder,Petrol,Automatic,146910,Thalawathugoda
+593,593,Honda,Civic,2021,4-cylinder,Petrol,Manual,47528,Malabe
+594,594,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,272198,Hokandara
+595,595,Suzuki,Jimny,2005,4-cylinder,Petrol,Manual,166066,Hokandara
+596,596,Kia,Rio,2007,4-cylinder,Petrol,Automatic,127647,Malabe
+597,597,Nissan,Sunny,2011,4-cylinder,Petrol,Manual,269798,Athurugiriya
+598,598,Suzuki,Wagon R,2011,3-cylinder,Petrol,Automatic,136938,Kaduwela
+599,599,Suzuki,Baleno,2009,4-cylinder,Petrol,Automatic,18084,Hokandara
+600,600,Perodua,Axia,2005,3-cylinder,Petrol,Automatic,71732,Battaramulla
+601,601,Nissan,Tiida,2008,4-cylinder,Petrol,Automatic,190709,Hokandara
+602,602,Mitsubishi,Lancer,2014,4-cylinder,Petrol,Manual,164106,Sri Jayawardenepura Kotte
+603,603,Suzuki,Alto,2020,3-cylinder,Petrol,Automatic,161210,Maharagama
+604,604,Nissan,Tiida,2023,4-cylinder,Petrol,Automatic,217938,Koswatta
+605,605,Toyota,Corolla,2013,4-cylinder,Petrol,Manual,187911,Sri Jayawardenepura Kotte
+606,606,Mazda,Axela,2021,4-cylinder,Petrol,Automatic,219851,Hokandara
+607,607,Hyundai,i10,2005,3-cylinder,Petrol,Automatic,40753,Hokandara
+608,608,Toyota,Corolla,2015,4-cylinder,Petrol,Manual,110937,Athurugiriya
+609,609,Nissan,Almera,2006,4-cylinder,Petrol,Automatic,154453,Kaduwela
+610,610,Mitsubishi,Attrage,2007,4-cylinder,Petrol,Automatic,179932,Malabe
+611,611,Toyota,Axio,2014,4-cylinder,Petrol,Automatic,128610,Thalawathugoda
+612,612,Honda,City,2018,4-cylinder,Petrol,Automatic,179162,Maharagama
+613,613,Suzuki,Swift,2011,4-cylinder,Petrol,Manual,203919,Athurugiriya
+614,614,Tata,Indica,2011,4-cylinder,Petrol,Manual,126972,Maharagama
+615,615,Suzuki,Alto,2020,3-cylinder,Petrol,Automatic,171745,Thalawathugoda
+616,616,Hyundai,Accent,2023,4-cylinder,Petrol,Manual,175944,Thalawathugoda
+617,617,Mazda,Demio,2023,4-cylinder,Petrol,Automatic,231672,Thalawathugoda
+618,618,Honda,Civic,2018,4-cylinder,Petrol,Manual,38858,Kottawa
+619,619,Toyota,Hiace,2021,4-cylinder,Diesel,Manual,216961,Athurugiriya
+620,620,Toyota,Axio,2012,4-cylinder,Petrol,Automatic,272288,Kottawa
+621,621,Mazda,Axela,2018,4-cylinder,Petrol,Automatic,131614,Kottawa
+622,622,Honda,Fit,2018,4-cylinder,Petrol,Automatic,251394,Koswatta
+623,623,Perodua,Myvi,2008,3-cylinder,Petrol,Automatic,155900,Maharagama
+624,624,Toyota,Corolla,2008,4-cylinder,Petrol,Manual,51934,Thalawathugoda
+625,625,Nissan,Sunny,2018,4-cylinder,Petrol,Manual,272071,Thalawathugoda
+626,626,Mitsubishi,Lancer,2010,4-cylinder,Petrol,Manual,156084,Boralesgamuwa
+627,627,Perodua,Myvi,2010,3-cylinder,Petrol,Automatic,157253,Battaramulla
+628,628,Hyundai,Elantra,2009,4-cylinder,Petrol,Automatic,149839,Pannipitiya
+629,629,Mazda,Axela,2022,4-cylinder,Petrol,Automatic,65000,Boralesgamuwa
+630,630,Kia,Rio,2022,4-cylinder,Petrol,Automatic,222748,Pannipitiya
+631,631,Suzuki,Wagon R,2019,3-cylinder,Petrol,Automatic,28101,Battaramulla
+632,632,Honda,Grace,2013,4-cylinder,Petrol Hybrid,Automatic,207739,Boralesgamuwa
+633,633,Suzuki,Alto,2022,3-cylinder,Petrol,Automatic,83113,Battaramulla
+634,634,Suzuki,Jimny,2022,4-cylinder,Petrol,Manual,71524,Athurugiriya
+635,635,Nissan,Tiida,2015,4-cylinder,Petrol,Automatic,152411,Battaramulla
+636,636,Honda,City,2017,4-cylinder,Petrol,Automatic,55387,Nugegoda
+637,637,Honda,Civic,2018,4-cylinder,Petrol,Manual,129630,Koswatta
+638,638,Toyota,Axio,2012,4-cylinder,Petrol,Automatic,77015,Malabe
+639,639,Suzuki,Jimny,2008,4-cylinder,Petrol,Manual,269866,Malabe
+640,640,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,255029,Battaramulla
+641,641,Suzuki,Jimny,2007,4-cylinder,Petrol,Manual,107363,Kaduwela
+642,642,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,49216,Battaramulla
+643,643,Hyundai,Elantra,2021,4-cylinder,Petrol,Automatic,171272,Battaramulla
+644,644,Toyota,Corolla,2015,4-cylinder,Petrol,Manual,170165,Boralesgamuwa
+645,645,Toyota,Corolla,2008,4-cylinder,Petrol,Manual,127753,Malabe
+646,646,Suzuki,Swift,2013,4-cylinder,Petrol,Manual,122077,Athurugiriya
+647,647,Toyota,Axio,2010,4-cylinder,Petrol,Automatic,81146,Malabe
+648,648,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,166820,Thalawathugoda
+649,649,Mazda,Demio,2013,4-cylinder,Petrol,Automatic,222694,Nugegoda
+650,650,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,89105,Sri Jayawardenepura Kotte
+651,651,Suzuki,Jimny,2006,4-cylinder,Petrol,Manual,182157,Hokandara
+652,652,Perodua,Myvi,2013,3-cylinder,Petrol,Automatic,29748,Koswatta
+653,653,Toyota,Corolla,2009,4-cylinder,Petrol,Manual,177173,Sri Jayawardenepura Kotte
+654,654,Toyota,Allion,2014,4-cylinder,Petrol,Automatic,157771,Athurugiriya
+655,655,Suzuki,Jimny,2023,4-cylinder,Petrol,Manual,79817,Rajagiriya
+656,656,Toyota,Corolla,2009,4-cylinder,Petrol,Manual,212357,Pannipitiya
+657,657,Hyundai,Elantra,2017,4-cylinder,Petrol,Automatic,177495,Hokandara
+658,658,Mazda,Demio,2017,4-cylinder,Petrol,Automatic,53601,Kaduwela
+659,659,Perodua,Myvi,2012,3-cylinder,Petrol,Automatic,61212,Sri Jayawardenepura Kotte
+660,660,Suzuki,Alto,2019,3-cylinder,Petrol,Automatic,18526,Sri Jayawardenepura Kotte
+661,661,Kia,Cerato,2016,4-cylinder,Petrol,Automatic,123673,Athurugiriya
+662,662,Hyundai,Elantra,2007,4-cylinder,Petrol,Automatic,114365,Kaduwela
+663,663,Toyota,Yaris,2022,4-cylinder,Petrol,Automatic,65763,Kottawa
+664,664,Hyundai,Accent,2023,4-cylinder,Petrol,Manual,79560,Rajagiriya
+665,665,Toyota,Premio,2022,4-cylinder,Petrol,Automatic,78424,Athurugiriya
+666,666,Perodua,Myvi,2016,3-cylinder,Petrol,Automatic,164400,Kottawa
+667,667,Suzuki,Swift,2006,4-cylinder,Petrol,Manual,30414,Athurugiriya
+668,668,Suzuki,Jimny,2023,4-cylinder,Petrol,Manual,129259,Malabe
+669,669,Nissan,Tiida,2016,4-cylinder,Petrol,Automatic,193349,Rajagiriya
+670,670,Toyota,Hiace,2008,4-cylinder,Diesel,Manual,59980,Koswatta
+671,671,Toyota,Vios,2015,4-cylinder,Petrol,Automatic,102054,Maharagama
+672,672,Hyundai,Accent,2021,4-cylinder,Petrol,Manual,153288,Sri Jayawardenepura Kotte
+673,673,Honda,Grace,2007,4-cylinder,Petrol Hybrid,Automatic,107786,Thalawathugoda
+674,674,Kia,Cerato,2005,4-cylinder,Petrol,Automatic,27252,Pannipitiya
+675,675,Kia,Cerato,2005,4-cylinder,Petrol,Automatic,144706,Nugegoda
+676,676,Honda,City,2008,4-cylinder,Petrol,Automatic,146568,Thalawathugoda
+677,677,Hyundai,Elantra,2010,4-cylinder,Petrol,Automatic,113587,Hokandara
+678,678,Kia,Cerato,2018,4-cylinder,Petrol,Automatic,72767,Maharagama
+679,679,Honda,Vezel,2017,4-cylinder,Petrol Hybrid,Automatic,257523,Kottawa
+680,680,Toyota,Corolla,2014,4-cylinder,Petrol,Manual,32340,Malabe
+681,681,Toyota,Axio,2008,4-cylinder,Petrol,Automatic,108983,Hokandara
+682,682,Perodua,Myvi,2013,3-cylinder,Petrol,Automatic,51910,Thalawathugoda
+683,683,Kia,Rio,2021,4-cylinder,Petrol,Automatic,62349,Koswatta
+684,684,Toyota,Yaris,2018,4-cylinder,Petrol,Automatic,231390,Thalawathugoda
+685,685,Perodua,Axia,2012,3-cylinder,Petrol,Automatic,61591,Hokandara
+686,686,Suzuki,Jimny,2013,4-cylinder,Petrol,Manual,99700,Boralesgamuwa
+687,687,Toyota,Allion,2010,4-cylinder,Petrol,Automatic,141625,Nugegoda
+688,688,Toyota,Hiace,2016,4-cylinder,Diesel,Manual,32982,Malabe
+689,689,Kia,Cerato,2013,4-cylinder,Petrol,Automatic,232736,Pannipitiya
+690,690,Honda,Civic,2014,4-cylinder,Petrol,Manual,37792,Thalawathugoda
+691,691,Kia,Rio,2006,4-cylinder,Petrol,Automatic,111823,Maharagama
+692,692,Mazda,Axela,2021,4-cylinder,Petrol,Automatic,104708,Malabe
+693,693,Suzuki,Jimny,2019,4-cylinder,Petrol,Manual,110804,Hokandara
+694,694,Mitsubishi,Attrage,2011,4-cylinder,Petrol,Automatic,229644,Hokandara
+695,695,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,277848,Pannipitiya
+696,696,Hyundai,Accent,2014,4-cylinder,Petrol,Manual,279316,Battaramulla
+697,697,Suzuki,Baleno,2013,4-cylinder,Petrol,Automatic,126903,Thalawathugoda
+698,698,Kia,Rio,2018,4-cylinder,Petrol,Automatic,31913,Hokandara
+699,699,Honda,Civic,2017,4-cylinder,Petrol,Manual,118520,Hokandara
+700,700,Nissan,Sunny,2007,4-cylinder,Petrol,Manual,199452,Athurugiriya
+701,701,Suzuki,Wagon R,2015,3-cylinder,Petrol,Automatic,86987,Battaramulla
+702,702,Suzuki,Jimny,2012,4-cylinder,Petrol,Manual,254190,Malabe
+703,703,Honda,Vezel,2005,4-cylinder,Petrol Hybrid,Automatic,190462,Hokandara
+704,704,Toyota,Corolla,2020,4-cylinder,Petrol,Manual,68524,Malabe
+705,705,Honda,Fit,2023,4-cylinder,Petrol,Automatic,116841,Kaduwela
+706,706,Hyundai,i10,2009,3-cylinder,Petrol,Automatic,70975,Rajagiriya
+707,707,Suzuki,Baleno,2017,4-cylinder,Petrol,Automatic,142836,Athurugiriya
+708,708,Toyota,Premio,2021,4-cylinder,Petrol,Automatic,107497,Kottawa
+709,709,Honda,Fit,2020,4-cylinder,Petrol,Automatic,279527,Athurugiriya
+710,710,Mitsubishi,Lancer,2021,4-cylinder,Petrol,Manual,241187,Pannipitiya
+711,711,Toyota,Premio,2008,4-cylinder,Petrol,Automatic,148725,Pannipitiya
+712,712,Tata,Indica,2010,4-cylinder,Petrol,Manual,59395,Thalawathugoda
+713,713,Perodua,Myvi,2014,3-cylinder,Petrol,Automatic,140354,Hokandara
+714,714,Mazda,Axela,2005,4-cylinder,Petrol,Automatic,201096,Malabe
+715,715,Tata,Indica,2016,4-cylinder,Petrol,Manual,269622,Maharagama
+716,716,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,44988,Battaramulla
+717,717,Toyota,Corolla,2011,4-cylinder,Petrol,Manual,81086,Koswatta
+718,718,Tata,Indica,2022,4-cylinder,Petrol,Manual,41063,Nugegoda
+719,719,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,206446,Pannipitiya
+720,720,Mazda,Demio,2009,4-cylinder,Petrol,Automatic,263515,Hokandara
+721,721,Hyundai,i10,2010,3-cylinder,Petrol,Automatic,250378,Athurugiriya
+722,722,Nissan,Sunny,2013,4-cylinder,Petrol,Manual,96545,Malabe
+723,723,Mitsubishi,Lancer,2017,4-cylinder,Petrol,Manual,237351,Boralesgamuwa
+724,724,Suzuki,Baleno,2007,4-cylinder,Petrol,Automatic,142243,Nugegoda
+725,725,Suzuki,Alto,2013,3-cylinder,Petrol,Automatic,215983,Pannipitiya
+726,726,Tata,Indica,2018,4-cylinder,Petrol,Manual,254079,Malabe
+727,727,Toyota,Hiace,2009,4-cylinder,Diesel,Manual,174375,Battaramulla
+728,728,Suzuki,Wagon R,2006,3-cylinder,Petrol,Automatic,258630,Athurugiriya
+729,729,Honda,City,2006,4-cylinder,Petrol,Automatic,214722,Pannipitiya
+730,730,Hyundai,Elantra,2022,4-cylinder,Petrol,Automatic,75216,Battaramulla
+731,731,Mitsubishi,Lancer,2020,4-cylinder,Petrol,Manual,162730,Sri Jayawardenepura Kotte
+732,732,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,218765,Sri Jayawardenepura Kotte
+733,733,Hyundai,Accent,2007,4-cylinder,Petrol,Manual,152099,Athurugiriya
+734,734,Toyota,Allion,2016,4-cylinder,Petrol,Automatic,202028,Thalawathugoda
+735,735,Tata,Indica,2013,4-cylinder,Petrol,Manual,251104,Athurugiriya
+736,736,Toyota,Premio,2012,4-cylinder,Petrol,Automatic,103896,Kaduwela
+737,737,Suzuki,Swift,2011,4-cylinder,Petrol,Manual,40305,Kottawa
+738,738,Hyundai,Accent,2019,4-cylinder,Petrol,Manual,252407,Thalawathugoda
+739,739,Perodua,Myvi,2008,3-cylinder,Petrol,Automatic,226486,Kaduwela
+740,740,Toyota,Axio,2021,4-cylinder,Petrol,Automatic,222194,Malabe
+741,741,Suzuki,Baleno,2006,4-cylinder,Petrol,Automatic,211248,Athurugiriya
+742,742,Toyota,Corolla,2011,4-cylinder,Petrol,Manual,144820,Malabe
+743,743,Toyota,Allion,2018,4-cylinder,Petrol,Automatic,33848,Kaduwela
+744,744,Hyundai,Accent,2009,4-cylinder,Petrol,Manual,264963,Boralesgamuwa
+745,745,Mazda,Demio,2019,4-cylinder,Petrol,Automatic,266287,Hokandara
+746,746,Hyundai,Accent,2008,4-cylinder,Petrol,Manual,103118,Hokandara
+747,747,Mitsubishi,Attrage,2023,4-cylinder,Petrol,Automatic,166747,Malabe
+748,748,Nissan,Almera,2008,4-cylinder,Petrol,Automatic,135965,Hokandara
+749,749,Suzuki,Wagon R,2017,3-cylinder,Petrol,Automatic,228935,Athurugiriya
+750,750,Hyundai,Elantra,2015,4-cylinder,Petrol,Automatic,189412,Malabe
+751,751,Nissan,Tiida,2007,4-cylinder,Petrol,Automatic,189535,Sri Jayawardenepura Kotte
+752,752,Toyota,Corolla,2008,4-cylinder,Petrol,Manual,225216,Nugegoda
+753,753,Suzuki,Wagon R,2021,3-cylinder,Petrol,Automatic,96997,Koswatta
+754,754,Honda,Fit,2019,4-cylinder,Petrol,Automatic,66521,Hokandara
+755,755,Perodua,Axia,2017,3-cylinder,Petrol,Automatic,179425,Rajagiriya
+756,756,Toyota,Hiace,2005,4-cylinder,Diesel,Manual,274805,Thalawathugoda
+757,757,Kia,Rio,2015,4-cylinder,Petrol,Automatic,250628,Athurugiriya
+758,758,Nissan,Almera,2018,4-cylinder,Petrol,Automatic,204656,Battaramulla
+759,759,Hyundai,i10,2009,3-cylinder,Petrol,Automatic,61481,Kaduwela
+760,760,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,253689,Maharagama
+761,761,Suzuki,Baleno,2009,4-cylinder,Petrol,Automatic,256825,Kaduwela
+762,762,Suzuki,Swift,2014,4-cylinder,Petrol,Manual,144703,Kaduwela
+763,763,Mitsubishi,Lancer,2008,4-cylinder,Petrol,Manual,247234,Thalawathugoda
+764,764,Honda,Grace,2013,4-cylinder,Petrol Hybrid,Automatic,127119,Koswatta
+765,765,Suzuki,Swift,2009,4-cylinder,Petrol,Manual,150799,Malabe
+766,766,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,132226,Athurugiriya
+767,767,Kia,Rio,2019,4-cylinder,Petrol,Automatic,21694,Nugegoda
+768,768,Toyota,Corolla,2008,4-cylinder,Petrol,Manual,261509,Koswatta
+769,769,Suzuki,Alto,2023,3-cylinder,Petrol,Automatic,177169,Kaduwela
+770,770,Honda,Civic,2006,4-cylinder,Petrol,Manual,168336,Maharagama
+771,771,Tata,Indica,2013,4-cylinder,Petrol,Manual,70850,Hokandara
+772,772,Toyota,Hiace,2008,4-cylinder,Diesel,Manual,204891,Athurugiriya
+773,773,Suzuki,Swift,2015,4-cylinder,Petrol,Manual,192913,Boralesgamuwa
+774,774,Mitsubishi,Lancer,2014,4-cylinder,Petrol,Manual,36143,Kottawa
+775,775,Honda,Civic,2009,4-cylinder,Petrol,Manual,68219,Maharagama
+776,776,Toyota,Premio,2006,4-cylinder,Petrol,Automatic,262840,Hokandara
+777,777,Hyundai,Elantra,2018,4-cylinder,Petrol,Automatic,230051,Pannipitiya
+778,778,Suzuki,Swift,2022,4-cylinder,Petrol,Manual,41529,Koswatta
+779,779,Suzuki,Jimny,2015,4-cylinder,Petrol,Manual,54597,Malabe
+780,780,Suzuki,Jimny,2011,4-cylinder,Petrol,Manual,146389,Kaduwela
+781,781,Toyota,Yaris,2017,4-cylinder,Petrol,Automatic,156943,Hokandara
+782,782,Tata,Indica,2023,4-cylinder,Petrol,Manual,219756,Kottawa
+783,783,Toyota,Allion,2005,4-cylinder,Petrol,Automatic,93273,Thalawathugoda
+784,784,Nissan,Almera,2020,4-cylinder,Petrol,Automatic,150537,Hokandara
+785,785,Toyota,Allion,2016,4-cylinder,Petrol,Automatic,190512,Pannipitiya
+786,786,Hyundai,Elantra,2010,4-cylinder,Petrol,Automatic,144404,Hokandara
+787,787,Toyota,Hiace,2016,4-cylinder,Diesel,Manual,242146,Rajagiriya
+788,788,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,99651,Battaramulla
+789,789,Nissan,Tiida,2006,4-cylinder,Petrol,Automatic,250786,Nugegoda
+790,790,Honda,City,2017,4-cylinder,Petrol,Automatic,33607,Athurugiriya
+791,791,Hyundai,Accent,2010,4-cylinder,Petrol,Manual,49472,Malabe
+792,792,Honda,Civic,2012,4-cylinder,Petrol,Manual,40937,Kottawa
+793,793,Hyundai,Elantra,2009,4-cylinder,Petrol,Automatic,213699,Battaramulla
+794,794,Perodua,Axia,2013,3-cylinder,Petrol,Automatic,237848,Rajagiriya
+795,795,Toyota,Yaris,2021,4-cylinder,Petrol,Automatic,214291,Athurugiriya
+796,796,Kia,Cerato,2018,4-cylinder,Petrol,Automatic,237440,Sri Jayawardenepura Kotte
+797,797,Toyota,Axio,2007,4-cylinder,Petrol,Automatic,96453,Kottawa
+798,798,Toyota,Corolla,2005,4-cylinder,Petrol,Manual,19217,Koswatta
+799,799,Perodua,Myvi,2013,3-cylinder,Petrol,Automatic,124643,Athurugiriya
+800,800,Nissan,Tiida,2015,4-cylinder,Petrol,Automatic,54738,Hokandara
+801,801,Hyundai,i10,2012,3-cylinder,Petrol,Automatic,109394,Hokandara
+802,802,Tata,Indica,2008,4-cylinder,Petrol,Manual,242143,Nugegoda
+803,803,Honda,Fit,2018,4-cylinder,Petrol,Automatic,233664,Hokandara
+804,804,Nissan,Almera,2020,4-cylinder,Petrol,Automatic,141127,Athurugiriya
+805,805,Hyundai,Accent,2023,4-cylinder,Petrol,Manual,32749,Thalawathugoda
+806,806,Toyota,Corolla,2010,4-cylinder,Petrol,Manual,186396,Thalawathugoda
+807,807,Suzuki,Alto,2015,3-cylinder,Petrol,Automatic,210670,Malabe
+808,808,Suzuki,Jimny,2016,4-cylinder,Petrol,Manual,112528,Nugegoda
+809,809,Hyundai,Elantra,2017,4-cylinder,Petrol,Automatic,137369,Maharagama
+810,810,Toyota,Axio,2009,4-cylinder,Petrol,Automatic,150983,Pannipitiya
+811,811,Mazda,Demio,2009,4-cylinder,Petrol,Automatic,157539,Malabe
+812,812,Kia,Cerato,2023,4-cylinder,Petrol,Automatic,25302,Malabe
+813,813,Honda,City,2005,4-cylinder,Petrol,Automatic,262669,Malabe
+814,814,Suzuki,Baleno,2011,4-cylinder,Petrol,Automatic,214937,Rajagiriya
+815,815,Honda,Civic,2017,4-cylinder,Petrol,Manual,53244,Rajagiriya
+816,816,Honda,Fit,2006,4-cylinder,Petrol,Automatic,55191,Hokandara
+817,817,Honda,Grace,2009,4-cylinder,Petrol Hybrid,Automatic,91862,Hokandara
+818,818,Mazda,Axela,2014,4-cylinder,Petrol,Automatic,199151,Hokandara
+819,819,Suzuki,Jimny,2009,4-cylinder,Petrol,Manual,270657,Kottawa
+820,820,Toyota,Axio,2014,4-cylinder,Petrol,Automatic,173050,Thalawathugoda
+821,821,Suzuki,Jimny,2012,4-cylinder,Petrol,Manual,227496,Koswatta
+822,822,Toyota,Yaris,2014,4-cylinder,Petrol,Automatic,192156,Malabe
+823,823,Suzuki,Wagon R,2017,3-cylinder,Petrol,Automatic,58139,Athurugiriya
+824,824,Suzuki,Wagon R,2007,3-cylinder,Petrol,Automatic,240841,Thalawathugoda
+825,825,Perodua,Myvi,2007,3-cylinder,Petrol,Automatic,244420,Athurugiriya
+826,826,Nissan,Tiida,2006,4-cylinder,Petrol,Automatic,248767,Kaduwela
+827,827,Honda,Civic,2014,4-cylinder,Petrol,Manual,192139,Thalawathugoda
+828,828,Toyota,Premio,2016,4-cylinder,Petrol,Automatic,244008,Rajagiriya
+829,829,Toyota,Allion,2010,4-cylinder,Petrol,Automatic,197570,Hokandara
+830,830,Suzuki,Jimny,2021,4-cylinder,Petrol,Manual,85763,Kaduwela
+831,831,Toyota,Yaris,2017,4-cylinder,Petrol,Automatic,120869,Battaramulla
+832,832,Perodua,Myvi,2017,3-cylinder,Petrol,Automatic,70679,Battaramulla
+833,833,Hyundai,i10,2017,3-cylinder,Petrol,Automatic,175154,Hokandara
+834,834,Suzuki,Jimny,2015,4-cylinder,Petrol,Manual,269762,Koswatta
+835,835,Toyota,Axio,2005,4-cylinder,Petrol,Automatic,64709,Malabe
+836,836,Suzuki,Swift,2010,4-cylinder,Petrol,Manual,22983,Thalawathugoda
+837,837,Hyundai,i10,2015,3-cylinder,Petrol,Automatic,155277,Sri Jayawardenepura Kotte
+838,838,Toyota,Hiace,2007,4-cylinder,Diesel,Manual,52107,Hokandara
+839,839,Honda,Civic,2008,4-cylinder,Petrol,Manual,192228,Malabe
+840,840,Kia,Cerato,2016,4-cylinder,Petrol,Automatic,110859,Boralesgamuwa
+841,841,Mitsubishi,Lancer,2005,4-cylinder,Petrol,Manual,39966,Sri Jayawardenepura Kotte
+842,842,Mazda,Axela,2018,4-cylinder,Petrol,Automatic,240579,Rajagiriya
+843,843,Hyundai,i10,2008,3-cylinder,Petrol,Automatic,32230,Athurugiriya
+844,844,Hyundai,Accent,2014,4-cylinder,Petrol,Manual,211375,Pannipitiya
+845,845,Honda,Civic,2007,4-cylinder,Petrol,Manual,95971,Nugegoda
+846,846,Toyota,Corolla,2015,4-cylinder,Petrol,Manual,199717,Rajagiriya
+847,847,Mazda,Demio,2009,4-cylinder,Petrol,Automatic,20562,Kottawa
+848,848,Kia,Rio,2020,4-cylinder,Petrol,Automatic,110212,Kaduwela
+849,849,Honda,Grace,2009,4-cylinder,Petrol Hybrid,Automatic,235859,Battaramulla
+850,850,Toyota,Yaris,2007,4-cylinder,Petrol,Automatic,176466,Hokandara
+851,851,Toyota,Vios,2011,4-cylinder,Petrol,Automatic,70072,Maharagama
+852,852,Toyota,Hiace,2008,4-cylinder,Diesel,Manual,93659,Koswatta
+853,853,Hyundai,i10,2011,3-cylinder,Petrol,Automatic,117906,Maharagama
+854,854,Perodua,Axia,2012,3-cylinder,Petrol,Automatic,161954,Malabe
+855,855,Nissan,Tiida,2011,4-cylinder,Petrol,Automatic,165458,Kaduwela
+856,856,Kia,Cerato,2009,4-cylinder,Petrol,Automatic,77095,Athurugiriya
+857,857,Toyota,Premio,2010,4-cylinder,Petrol,Automatic,99774,Hokandara
+858,858,Suzuki,Swift,2006,4-cylinder,Petrol,Manual,53835,Boralesgamuwa
+859,859,Perodua,Axia,2018,3-cylinder,Petrol,Automatic,99571,Maharagama
+860,860,Tata,Indica,2012,4-cylinder,Petrol,Manual,180523,Malabe
+861,861,Hyundai,Accent,2014,4-cylinder,Petrol,Manual,212264,Rajagiriya
+862,862,Kia,Rio,2013,4-cylinder,Petrol,Automatic,55998,Hokandara
+863,863,Suzuki,Baleno,2012,4-cylinder,Petrol,Automatic,165684,Athurugiriya
+864,864,Hyundai,Accent,2013,4-cylinder,Petrol,Manual,118688,Rajagiriya
+865,865,Suzuki,Jimny,2012,4-cylinder,Petrol,Manual,93963,Koswatta
+866,866,Mazda,Demio,2023,4-cylinder,Petrol,Automatic,79753,Athurugiriya
+867,867,Suzuki,Swift,2022,4-cylinder,Petrol,Manual,234966,Malabe
+868,868,Honda,Vezel,2014,4-cylinder,Petrol Hybrid,Automatic,25077,Thalawathugoda
+869,869,Kia,Rio,2019,4-cylinder,Petrol,Automatic,174909,Kaduwela
+870,870,Toyota,Yaris,2010,4-cylinder,Petrol,Automatic,242435,Nugegoda
+871,871,Honda,City,2011,4-cylinder,Petrol,Automatic,70694,Athurugiriya
+872,872,Suzuki,Jimny,2022,4-cylinder,Petrol,Manual,271587,Pannipitiya
+873,873,Suzuki,Wagon R,2021,3-cylinder,Petrol,Automatic,47471,Maharagama
+874,874,Suzuki,Jimny,2009,4-cylinder,Petrol,Manual,120071,Koswatta
+875,875,Mitsubishi,Attrage,2016,4-cylinder,Petrol,Automatic,44137,Athurugiriya
+876,876,Hyundai,Elantra,2006,4-cylinder,Petrol,Automatic,123631,Maharagama
+877,877,Tata,Indica,2017,4-cylinder,Petrol,Manual,193072,Athurugiriya
+878,878,Suzuki,Swift,2007,4-cylinder,Petrol,Manual,62911,Athurugiriya
+879,879,Hyundai,Accent,2008,4-cylinder,Petrol,Manual,81238,Kottawa
+880,880,Toyota,Premio,2010,4-cylinder,Petrol,Automatic,103466,Thalawathugoda
+881,881,Mitsubishi,Lancer,2010,4-cylinder,Petrol,Manual,172498,Athurugiriya
+882,882,Suzuki,Alto,2007,3-cylinder,Petrol,Automatic,154934,Boralesgamuwa
+883,883,Tata,Indica,2011,4-cylinder,Petrol,Manual,236685,Sri Jayawardenepura Kotte
+884,884,Hyundai,i10,2015,3-cylinder,Petrol,Automatic,123126,Athurugiriya
+885,885,Mitsubishi,Attrage,2010,4-cylinder,Petrol,Automatic,234489,Pannipitiya
+886,886,Kia,Rio,2021,4-cylinder,Petrol,Automatic,86650,Kaduwela
+887,887,Toyota,Allion,2021,4-cylinder,Petrol,Automatic,123884,Hokandara
+888,888,Honda,Civic,2016,4-cylinder,Petrol,Manual,18926,Kaduwela
+889,889,Nissan,Sunny,2009,4-cylinder,Petrol,Manual,30129,Koswatta
+890,890,Mazda,Demio,2005,4-cylinder,Petrol,Automatic,197525,Battaramulla
+891,891,Honda,Civic,2021,4-cylinder,Petrol,Manual,246101,Malabe
+892,892,Mitsubishi,Lancer,2016,4-cylinder,Petrol,Manual,241087,Sri Jayawardenepura Kotte
+893,893,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,157335,Nugegoda
+894,894,Kia,Cerato,2019,4-cylinder,Petrol,Automatic,225061,Koswatta
+895,895,Suzuki,Wagon R,2016,3-cylinder,Petrol,Automatic,198453,Maharagama
+896,896,Perodua,Axia,2023,3-cylinder,Petrol,Automatic,39057,Boralesgamuwa
+897,897,Nissan,Tiida,2019,4-cylinder,Petrol,Automatic,140210,Malabe
+898,898,Suzuki,Baleno,2019,4-cylinder,Petrol,Automatic,260972,Kaduwela
+899,899,Nissan,Sunny,2020,4-cylinder,Petrol,Manual,114195,Hokandara
+900,900,Mitsubishi,Lancer,2013,4-cylinder,Petrol,Manual,185053,Thalawathugoda
+901,901,Toyota,Hiace,2007,4-cylinder,Diesel,Manual,75610,Sri Jayawardenepura Kotte
+902,902,Kia,Cerato,2009,4-cylinder,Petrol,Automatic,161413,Nugegoda
+903,903,Suzuki,Baleno,2023,4-cylinder,Petrol,Automatic,99272,Hokandara
+904,904,Suzuki,Swift,2006,4-cylinder,Petrol,Manual,218872,Kaduwela
+905,905,Kia,Rio,2011,4-cylinder,Petrol,Automatic,136208,Malabe
+906,906,Mazda,Demio,2009,4-cylinder,Petrol,Automatic,80903,Kaduwela
+907,907,Toyota,Corolla,2019,4-cylinder,Petrol,Manual,229581,Battaramulla
+908,908,Toyota,Allion,2010,4-cylinder,Petrol,Automatic,188563,Athurugiriya
+909,909,Hyundai,Elantra,2008,4-cylinder,Petrol,Automatic,219234,Malabe
+910,910,Toyota,Vios,2012,4-cylinder,Petrol,Automatic,142020,Pannipitiya
+911,911,Toyota,Axio,2017,4-cylinder,Petrol,Automatic,186144,Malabe
+912,912,Suzuki,Wagon R,2019,3-cylinder,Petrol,Automatic,47443,Sri Jayawardenepura Kotte
+913,913,Hyundai,i10,2015,3-cylinder,Petrol,Automatic,190149,Pannipitiya
+914,914,Mitsubishi,Lancer,2008,4-cylinder,Petrol,Manual,278086,Athurugiriya
+915,915,Honda,Fit,2018,4-cylinder,Petrol,Automatic,62988,Malabe
+916,916,Honda,City,2022,4-cylinder,Petrol,Automatic,189100,Battaramulla
+917,917,Suzuki,Swift,2011,4-cylinder,Petrol,Manual,187338,Thalawathugoda
+918,918,Honda,Fit,2006,4-cylinder,Petrol,Automatic,20831,Athurugiriya
+919,919,Toyota,Yaris,2012,4-cylinder,Petrol,Automatic,24588,Thalawathugoda
+920,920,Mazda,Demio,2006,4-cylinder,Petrol,Automatic,215437,Koswatta
+921,921,Toyota,Premio,2013,4-cylinder,Petrol,Automatic,31266,Malabe
+922,922,Toyota,Allion,2011,4-cylinder,Petrol,Automatic,207572,Koswatta
+923,923,Hyundai,i10,2017,3-cylinder,Petrol,Automatic,229343,Pannipitiya
+924,924,Honda,Civic,2011,4-cylinder,Petrol,Manual,243549,Hokandara
+925,925,Perodua,Axia,2021,3-cylinder,Petrol,Automatic,226866,Athurugiriya
+926,926,Honda,Vezel,2021,4-cylinder,Petrol Hybrid,Automatic,240858,Battaramulla
+927,927,Toyota,Yaris,2021,4-cylinder,Petrol,Automatic,131279,Hokandara
+928,928,Honda,Grace,2010,4-cylinder,Petrol Hybrid,Automatic,152597,Boralesgamuwa
+929,929,Mitsubishi,Attrage,2018,4-cylinder,Petrol,Automatic,219522,Nugegoda
+930,930,Kia,Rio,2009,4-cylinder,Petrol,Automatic,192612,Koswatta
+931,931,Perodua,Axia,2009,3-cylinder,Petrol,Automatic,249935,Battaramulla
+932,932,Toyota,Hiace,2007,4-cylinder,Diesel,Manual,90269,Koswatta
+933,933,Hyundai,Accent,2009,4-cylinder,Petrol,Manual,20036,Koswatta
+934,934,Toyota,Hiace,2020,4-cylinder,Diesel,Manual,261299,Thalawathugoda
+935,935,Honda,Civic,2017,4-cylinder,Petrol,Manual,92715,Athurugiriya
+936,936,Honda,Vezel,2023,4-cylinder,Petrol Hybrid,Automatic,166223,Battaramulla
+937,937,Suzuki,Swift,2016,4-cylinder,Petrol,Manual,90409,Hokandara
+938,938,Mazda,Axela,2013,4-cylinder,Petrol,Automatic,95729,Koswatta
+939,939,Honda,Civic,2009,4-cylinder,Petrol,Manual,141372,Battaramulla
+940,940,Mazda,Axela,2010,4-cylinder,Petrol,Automatic,96816,Rajagiriya
+941,941,Suzuki,Swift,2008,4-cylinder,Petrol,Manual,144500,Hokandara
+942,942,Suzuki,Alto,2023,3-cylinder,Petrol,Automatic,252248,Kottawa
+943,943,Toyota,Axio,2022,4-cylinder,Petrol,Automatic,196410,Thalawathugoda
+944,944,Honda,Fit,2016,4-cylinder,Petrol,Automatic,224279,Pannipitiya
+945,945,Tata,Indica,2010,4-cylinder,Petrol,Manual,234006,Hokandara
+946,946,Toyota,Corolla,2023,4-cylinder,Petrol,Manual,219673,Battaramulla
+947,947,Tata,Indica,2005,4-cylinder,Petrol,Manual,149684,Malabe
+948,948,Suzuki,Swift,2006,4-cylinder,Petrol,Manual,234196,Sri Jayawardenepura Kotte
+949,949,Suzuki,Jimny,2016,4-cylinder,Petrol,Manual,62460,Hokandara
+950,950,Suzuki,Jimny,2018,4-cylinder,Petrol,Manual,88863,Rajagiriya
+951,951,Toyota,Yaris,2011,4-cylinder,Petrol,Automatic,50526,Hokandara
+952,952,Hyundai,Elantra,2020,4-cylinder,Petrol,Automatic,176108,Thalawathugoda
+953,953,Nissan,Sunny,2022,4-cylinder,Petrol,Manual,115653,Malabe
+954,954,Toyota,Hiace,2020,4-cylinder,Diesel,Manual,87543,Hokandara
+955,955,Mitsubishi,Lancer,2010,4-cylinder,Petrol,Manual,104319,Hokandara
+956,956,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,266710,Maharagama
+957,957,Suzuki,Alto,2011,3-cylinder,Petrol,Automatic,275208,Hokandara
+958,958,Mitsubishi,Lancer,2017,4-cylinder,Petrol,Manual,99801,Athurugiriya
+959,959,Suzuki,Jimny,2011,4-cylinder,Petrol,Manual,141672,Battaramulla
+960,960,Nissan,Almera,2015,4-cylinder,Petrol,Automatic,181307,Pannipitiya
+961,961,Mitsubishi,Attrage,2009,4-cylinder,Petrol,Automatic,231237,Boralesgamuwa
+962,962,Toyota,Corolla,2016,4-cylinder,Petrol,Manual,169516,Hokandara
+963,963,Nissan,Sunny,2010,4-cylinder,Petrol,Manual,181661,Thalawathugoda
+964,964,Honda,Civic,2019,4-cylinder,Petrol,Manual,239027,Boralesgamuwa
+965,965,Honda,Grace,2007,4-cylinder,Petrol Hybrid,Automatic,130027,Pannipitiya
+966,966,Honda,Civic,2019,4-cylinder,Petrol,Manual,103146,Nugegoda
+967,967,Nissan,Sunny,2022,4-cylinder,Petrol,Manual,82148,Nugegoda
+968,968,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,130329,Kaduwela
+969,969,Mitsubishi,Attrage,2013,4-cylinder,Petrol,Automatic,22581,Koswatta
+970,970,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,167812,Malabe
+971,971,Toyota,Allion,2021,4-cylinder,Petrol,Automatic,265103,Koswatta
+972,972,Tata,Indica,2023,4-cylinder,Petrol,Manual,152553,Hokandara
+973,973,Hyundai,i10,2010,3-cylinder,Petrol,Automatic,164168,Malabe
+974,974,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,150351,Hokandara
+975,975,Hyundai,Accent,2005,4-cylinder,Petrol,Manual,106498,Boralesgamuwa
+976,976,Mitsubishi,Lancer,2018,4-cylinder,Petrol,Manual,188867,Rajagiriya
+977,977,Suzuki,Swift,2019,4-cylinder,Petrol,Manual,134013,Battaramulla
+978,978,Suzuki,Baleno,2020,4-cylinder,Petrol,Automatic,33037,Malabe
+979,979,Toyota,Axio,2011,4-cylinder,Petrol,Automatic,193445,Malabe
+980,980,Toyota,Corolla,2012,4-cylinder,Petrol,Manual,87201,Pannipitiya
+981,981,Hyundai,Elantra,2017,4-cylinder,Petrol,Automatic,110652,Pannipitiya
+982,982,Tata,Indica,2011,4-cylinder,Petrol,Manual,236498,Nugegoda
+983,983,Suzuki,Swift,2005,4-cylinder,Petrol,Manual,249932,Rajagiriya
+984,984,Honda,Grace,2005,4-cylinder,Petrol Hybrid,Automatic,131582,Kaduwela
+985,985,Mitsubishi,Lancer,2005,4-cylinder,Petrol,Manual,44754,Sri Jayawardenepura Kotte
+986,986,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,33003,Thalawathugoda
+987,987,Kia,Cerato,2009,4-cylinder,Petrol,Automatic,76269,Hokandara
+988,988,Honda,Civic,2018,4-cylinder,Petrol,Manual,104957,Hokandara
+989,989,Tata,Indica,2011,4-cylinder,Petrol,Manual,92961,Kaduwela
+990,990,Toyota,Hiace,2009,4-cylinder,Diesel,Manual,30679,Battaramulla
+991,991,Hyundai,i10,2016,3-cylinder,Petrol,Automatic,35389,Battaramulla
+992,992,Toyota,Corolla,2010,4-cylinder,Petrol,Manual,72625,Koswatta
+993,993,Suzuki,Swift,2019,4-cylinder,Petrol,Manual,246351,Athurugiriya
+994,994,Toyota,Yaris,2011,4-cylinder,Petrol,Automatic,52251,Maharagama
+995,995,Toyota,Allion,2017,4-cylinder,Petrol,Automatic,24728,Malabe
+996,996,Suzuki,Swift,2016,4-cylinder,Petrol,Manual,110998,Malabe
+997,997,Toyota,Yaris,2020,4-cylinder,Petrol,Automatic,165698,Malabe
+998,998,Mitsubishi,Lancer,2012,4-cylinder,Petrol,Manual,260795,Kaduwela
+999,999,Mitsubishi,Lancer,2007,4-cylinder,Petrol,Manual,200632,Thalawathugoda
+1000,1000,Mitsubishi,Lancer,2006,4-cylinder,Petrol,Manual,144138,Hokandara
+1001,1001,Toyota,Premio,2022,4-cylinder,Petrol,Automatic,167016,Sri Jayawardenepura Kotte
+1002,1002,Suzuki,Jimny,2014,4-cylinder,Petrol,Manual,210471,Rajagiriya
+1003,1003,Nissan,Almera,2005,4-cylinder,Petrol,Automatic,202686,Kaduwela
+1004,1004,Suzuki,Wagon R,2013,3-cylinder,Petrol,Automatic,248054,Athurugiriya
+1005,1005,Tata,Indica,2023,4-cylinder,Petrol,Manual,42971,Battaramulla
+1006,1006,Toyota,Axio,2008,4-cylinder,Petrol,Automatic,156298,Hokandara
+1007,1007,Toyota,Vios,2020,4-cylinder,Petrol,Automatic,186107,Boralesgamuwa
+1008,1008,Hyundai,Elantra,2018,4-cylinder,Petrol,Automatic,208496,Maharagama
+1009,1009,Hyundai,Accent,2008,4-cylinder,Petrol,Manual,130017,Kaduwela
+1010,1010,Suzuki,Swift,2023,4-cylinder,Petrol,Manual,189622,Kaduwela
+1011,1011,Toyota,Vios,2009,4-cylinder,Petrol,Automatic,227713,Nugegoda
+1012,1012,Honda,Vezel,2005,4-cylinder,Petrol Hybrid,Automatic,75630,Athurugiriya
+1013,1013,Suzuki,Wagon R,2008,3-cylinder,Petrol,Automatic,264387,Malabe
+1014,1014,Toyota,Allion,2020,4-cylinder,Petrol,Automatic,158163,Thalawathugoda
+1015,1015,Perodua,Axia,2021,3-cylinder,Petrol,Automatic,28422,Sri Jayawardenepura Kotte
+1016,1016,Suzuki,Baleno,2010,4-cylinder,Petrol,Automatic,20639,Athurugiriya
+1017,1017,Hyundai,Elantra,2018,4-cylinder,Petrol,Automatic,244164,Nugegoda
+1018,1018,Honda,Vezel,2022,4-cylinder,Petrol Hybrid,Automatic,279526,Battaramulla
+1019,1019,Suzuki,Wagon R,2008,3-cylinder,Petrol,Automatic,266445,Battaramulla
+1020,1020,Hyundai,i10,2023,3-cylinder,Petrol,Automatic,207340,Athurugiriya
+1021,1021,Honda,Fit,2015,4-cylinder,Petrol,Automatic,245553,Thalawathugoda
+1022,1022,Suzuki,Swift,2020,4-cylinder,Petrol,Manual,54263,Boralesgamuwa
+1023,1023,Tata,Indica,2011,4-cylinder,Petrol,Manual,217833,Koswatta
+1024,1024,Kia,Cerato,2006,4-cylinder,Petrol,Automatic,206805,Hokandara
+1025,1025,Nissan,Almera,2021,4-cylinder,Petrol,Automatic,117390,Sri Jayawardenepura Kotte
+1026,1026,Toyota,Yaris,2019,4-cylinder,Petrol,Automatic,21374,Athurugiriya
+1027,1027,Nissan,Tiida,2011,4-cylinder,Petrol,Automatic,94827,Hokandara
+1028,1028,Kia,Rio,2021,4-cylinder,Petrol,Automatic,210404,Kaduwela
+1029,1029,Toyota,Axio,2007,4-cylinder,Petrol,Automatic,67104,Boralesgamuwa
+1030,1030,Toyota,Axio,2018,4-cylinder,Petrol,Automatic,72759,Battaramulla
+1031,1031,Toyota,Corolla,2012,4-cylinder,Petrol,Manual,54746,Boralesgamuwa
+1032,1032,Kia,Rio,2010,4-cylinder,Petrol,Automatic,199978,Koswatta
+1033,1033,Toyota,Hiace,2007,4-cylinder,Diesel,Manual,139633,Kaduwela
+1034,1034,Toyota,Yaris,2010,4-cylinder,Petrol,Automatic,53744,Nugegoda
+1035,1035,Suzuki,Baleno,2008,4-cylinder,Petrol,Automatic,226307,Koswatta
+1036,1036,Tata,Indica,2013,4-cylinder,Petrol,Manual,175050,Battaramulla
+1037,1037,Tata,Indica,2008,4-cylinder,Petrol,Manual,142903,Pannipitiya
+1038,1038,Nissan,Sunny,2021,4-cylinder,Petrol,Manual,184278,Nugegoda
+1039,1039,Perodua,Axia,2013,3-cylinder,Petrol,Automatic,254175,Pannipitiya
+1040,1040,Suzuki,Wagon R,2007,3-cylinder,Petrol,Automatic,112997,Battaramulla
+1041,1041,Hyundai,Accent,2019,4-cylinder,Petrol,Manual,80833,Thalawathugoda
+1042,1042,Kia,Cerato,2018,4-cylinder,Petrol,Automatic,250859,Hokandara
+1043,1043,Suzuki,Swift,2017,4-cylinder,Petrol,Manual,177933,Malabe
+1044,1044,Suzuki,Jimny,2021,4-cylinder,Petrol,Manual,151257,Battaramulla
+1045,1045,Nissan,Sunny,2012,4-cylinder,Petrol,Manual,29154,Koswatta
+1046,1046,Honda,City,2021,4-cylinder,Petrol,Automatic,271644,Battaramulla
+1047,1047,Toyota,Corolla,2016,4-cylinder,Petrol,Manual,22292,Thalawathugoda
+1048,1048,Suzuki,Wagon R,2006,3-cylinder,Petrol,Automatic,56495,Koswatta
+1049,1049,Mitsubishi,Attrage,2018,4-cylinder,Petrol,Automatic,81700,Battaramulla
+1050,1050,Suzuki,Alto,2018,3-cylinder,Petrol,Automatic,274421,Boralesgamuwa
+1051,1051,Mitsubishi,Lancer,2006,4-cylinder,Petrol,Manual,131871,Pannipitiya
+1052,1052,Nissan,Almera,2017,4-cylinder,Petrol,Automatic,230462,Hokandara
+1053,1053,Toyota,Yaris,2015,4-cylinder,Petrol,Automatic,268922,Koswatta
+1054,1054,Honda,Civic,2007,4-cylinder,Petrol,Manual,276927,Battaramulla
+1055,1055,Toyota,Vios,2007,4-cylinder,Petrol,Automatic,62544,Thalawathugoda
+1056,1056,Hyundai,i10,2019,3-cylinder,Petrol,Automatic,260329,Battaramulla
+1057,1057,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,120648,Athurugiriya
+1058,1058,Toyota,Premio,2012,4-cylinder,Petrol,Automatic,266534,Hokandara
+1059,1059,Hyundai,Accent,2015,4-cylinder,Petrol,Manual,82186,Pannipitiya
+1060,1060,Hyundai,Accent,2020,4-cylinder,Petrol,Manual,31201,Thalawathugoda
+1061,1061,Tata,Indica,2006,4-cylinder,Petrol,Manual,52881,Pannipitiya
+1062,1062,Mazda,Demio,2013,4-cylinder,Petrol,Automatic,138192,Rajagiriya
+1063,1063,Mitsubishi,Lancer,2023,4-cylinder,Petrol,Manual,79884,Malabe
+1064,1064,Hyundai,Accent,2016,4-cylinder,Petrol,Manual,279642,Thalawathugoda
+1065,1065,Nissan,Sunny,2011,4-cylinder,Petrol,Manual,140921,Boralesgamuwa
+1066,1066,Toyota,Premio,2018,4-cylinder,Petrol,Automatic,172064,Hokandara
+1067,1067,Toyota,Yaris,2015,4-cylinder,Petrol,Automatic,230677,Malabe
+1068,1068,Toyota,Axio,2021,4-cylinder,Petrol,Automatic,87692,Hokandara
+1069,1069,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,266640,Hokandara
+1070,1070,Honda,Civic,2021,4-cylinder,Petrol,Manual,192354,Kaduwela
+1071,1071,Toyota,Yaris,2007,4-cylinder,Petrol,Automatic,66126,Athurugiriya
+1072,1072,Honda,City,2007,4-cylinder,Petrol,Automatic,66645,Rajagiriya
+1073,1073,Toyota,Yaris,2006,4-cylinder,Petrol,Automatic,127473,Sri Jayawardenepura Kotte
+1074,1074,Toyota,Corolla,2013,4-cylinder,Petrol,Manual,104443,Athurugiriya
+1075,1075,Kia,Rio,2008,4-cylinder,Petrol,Automatic,210677,Thalawathugoda
+1076,1076,Toyota,Yaris,2021,4-cylinder,Petrol,Automatic,277079,Battaramulla
+1077,1077,Honda,Civic,2012,4-cylinder,Petrol,Manual,250090,Thalawathugoda
+1078,1078,Honda,Civic,2016,4-cylinder,Petrol,Manual,257219,Pannipitiya
+1079,1079,Mazda,Demio,2014,4-cylinder,Petrol,Automatic,224327,Athurugiriya
+1080,1080,Toyota,Vios,2016,4-cylinder,Petrol,Automatic,213213,Boralesgamuwa
+1081,1081,Perodua,Axia,2009,3-cylinder,Petrol,Automatic,25997,Malabe
+1082,1082,Nissan,Almera,2005,4-cylinder,Petrol,Automatic,213734,Battaramulla
+1083,1083,Tata,Indica,2010,4-cylinder,Petrol,Manual,266566,Kottawa
+1084,1084,Honda,City,2011,4-cylinder,Petrol,Automatic,203780,Malabe
+1085,1085,Kia,Rio,2016,4-cylinder,Petrol,Automatic,253821,Battaramulla
+1086,1086,Suzuki,Swift,2016,4-cylinder,Petrol,Manual,164719,Athurugiriya
+1087,1087,Honda,City,2022,4-cylinder,Petrol,Automatic,94386,Koswatta
+1088,1088,Nissan,Sunny,2009,4-cylinder,Petrol,Manual,128110,Rajagiriya
+1089,1089,Honda,Civic,2011,4-cylinder,Petrol,Manual,210175,Maharagama
+1090,1090,Toyota,Hiace,2016,4-cylinder,Diesel,Manual,71847,Hokandara
+1091,1091,Toyota,Hiace,2017,4-cylinder,Diesel,Manual,201833,Hokandara
+1092,1092,Kia,Cerato,2021,4-cylinder,Petrol,Automatic,236626,Hokandara
+1093,1093,Toyota,Hiace,2014,4-cylinder,Diesel,Manual,37703,Hokandara
+1094,1094,Toyota,Axio,2020,4-cylinder,Petrol,Automatic,149181,Hokandara
+1095,1095,Hyundai,Elantra,2008,4-cylinder,Petrol,Automatic,118487,Kottawa
+1096,1096,Suzuki,Swift,2007,4-cylinder,Petrol,Manual,113569,Boralesgamuwa
+1097,1097,Suzuki,Wagon R,2006,3-cylinder,Petrol,Automatic,91374,Kottawa
+1098,1098,Perodua,Axia,2013,3-cylinder,Petrol,Automatic,86820,Battaramulla
+1099,1099,Mazda,Demio,2013,4-cylinder,Petrol,Automatic,68812,Pannipitiya
+1100,1100,Mazda,Axela,2023,4-cylinder,Petrol,Automatic,107564,Thalawathugoda
+1101,1101,Kia,Cerato,2014,4-cylinder,Petrol,Automatic,30619,Rajagiriya
+1102,1102,Nissan,Sunny,2006,4-cylinder,Petrol,Manual,26429,Koswatta
+1103,1103,Suzuki,Wagon R,2019,3-cylinder,Petrol,Automatic,156450,Battaramulla
+1104,1104,Nissan,Sunny,2022,4-cylinder,Petrol,Manual,176135,Athurugiriya
+1105,1105,Toyota,Hiace,2010,4-cylinder,Diesel,Manual,67564,Hokandara
+1106,1106,Suzuki,Wagon R,2010,3-cylinder,Petrol,Automatic,171906,Hokandara
+1107,1107,Hyundai,Accent,2019,4-cylinder,Petrol,Manual,210294,Pannipitiya
+1108,1108,Toyota,Allion,2015,4-cylinder,Petrol,Automatic,119612,Pannipitiya
+1109,1109,Suzuki,Jimny,2018,4-cylinder,Petrol,Manual,68336,Hokandara
+1110,1110,Toyota,Yaris,2018,4-cylinder,Petrol,Automatic,79715,Nugegoda
+1111,1111,Mitsubishi,Lancer,2022,4-cylinder,Petrol,Manual,187893,Malabe
+1112,1112,Suzuki,Swift,2020,4-cylinder,Petrol,Manual,160154,Kaduwela
+1113,1113,Perodua,Axia,2014,3-cylinder,Petrol,Automatic,117494,Boralesgamuwa
+1114,1114,Kia,Cerato,2014,4-cylinder,Petrol,Automatic,80812,Athurugiriya
+1115,1115,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,24328,Boralesgamuwa
+1116,1116,Toyota,Axio,2015,4-cylinder,Petrol,Automatic,50709,Thalawathugoda
+1117,1117,Honda,Vezel,2012,4-cylinder,Petrol Hybrid,Automatic,123529,Sri Jayawardenepura Kotte
+1118,1118,Mitsubishi,Attrage,2023,4-cylinder,Petrol,Automatic,114476,Pannipitiya
+1119,1119,Mitsubishi,Lancer,2017,4-cylinder,Petrol,Manual,32067,Malabe
+1120,1120,Honda,Civic,2013,4-cylinder,Petrol,Manual,84524,Hokandara
+1121,1121,Nissan,Almera,2008,4-cylinder,Petrol,Automatic,265457,Maharagama
+1122,1122,Mitsubishi,Lancer,2016,4-cylinder,Petrol,Manual,115080,Pannipitiya
+1123,1123,Suzuki,Swift,2007,4-cylinder,Petrol,Manual,25813,Thalawathugoda
+1124,1124,Nissan,Tiida,2009,4-cylinder,Petrol,Automatic,252713,Kaduwela
+1125,1125,Toyota,Corolla,2023,4-cylinder,Petrol,Manual,221763,Thalawathugoda
+1126,1126,Toyota,Vios,2012,4-cylinder,Petrol,Automatic,31555,Athurugiriya
+1127,1127,Toyota,Premio,2009,4-cylinder,Petrol,Automatic,81872,Hokandara
+1128,1128,Toyota,Vios,2015,4-cylinder,Petrol,Automatic,141248,Rajagiriya
+1129,1129,Suzuki,Wagon R,2020,3-cylinder,Petrol,Automatic,85491,Malabe
+1130,1130,Honda,Vezel,2012,4-cylinder,Petrol Hybrid,Automatic,212014,Koswatta
+1131,1131,Toyota,Hiace,2012,4-cylinder,Diesel,Manual,132602,Hokandara
+1132,1132,Honda,Civic,2020,4-cylinder,Petrol,Manual,266967,Sri Jayawardenepura Kotte
+1133,1133,Hyundai,Accent,2005,4-cylinder,Petrol,Manual,257541,Athurugiriya
+1134,1134,Kia,Cerato,2019,4-cylinder,Petrol,Automatic,207729,Hokandara
+1135,1135,Nissan,Tiida,2017,4-cylinder,Petrol,Automatic,187087,Nugegoda
+1136,1136,Hyundai,Accent,2008,4-cylinder,Petrol,Manual,60858,Battaramulla
+1137,1137,Hyundai,i10,2012,3-cylinder,Petrol,Automatic,210034,Athurugiriya
+1138,1138,Nissan,Almera,2011,4-cylinder,Petrol,Automatic,113228,Sri Jayawardenepura Kotte
+1139,1139,Honda,Civic,2010,4-cylinder,Petrol,Manual,167697,Malabe
+1140,1140,Toyota,Yaris,2011,4-cylinder,Petrol,Automatic,63440,Rajagiriya
+1141,1141,Kia,Rio,2012,4-cylinder,Petrol,Automatic,84513,Rajagiriya
+1142,1142,Toyota,Axio,2019,4-cylinder,Petrol,Automatic,256217,Thalawathugoda
+1143,1143,Hyundai,Accent,2007,4-cylinder,Petrol,Manual,89847,Hokandara
+1144,1144,Mitsubishi,Lancer,2013,4-cylinder,Petrol,Manual,233013,Hokandara
+1145,1145,Suzuki,Alto,2020,3-cylinder,Petrol,Automatic,157244,Kottawa
+1146,1146,Kia,Cerato,2008,4-cylinder,Petrol,Automatic,159887,Kaduwela
+1147,1147,Honda,City,2005,4-cylinder,Petrol,Automatic,100610,Maharagama
+1148,1148,Honda,Fit,2008,4-cylinder,Petrol,Automatic,240524,Sri Jayawardenepura Kotte
+1149,1149,Suzuki,Swift,2022,4-cylinder,Petrol,Manual,123881,Nugegoda
+1150,1150,Mazda,Demio,2010,4-cylinder,Petrol,Automatic,100866,Hokandara
+1151,1151,Honda,Civic,2012,4-cylinder,Petrol,Manual,157403,Battaramulla
+1152,1152,Toyota,Corolla,2006,4-cylinder,Petrol,Manual,173620,Nugegoda
+1153,1153,Suzuki,Swift,2014,4-cylinder,Petrol,Manual,37827,Boralesgamuwa
+1154,1154,Honda,Grace,2007,4-cylinder,Petrol Hybrid,Automatic,96559,Malabe
+1155,1155,Honda,Civic,2018,4-cylinder,Petrol,Manual,207764,Kaduwela
+1156,1156,Suzuki,Jimny,2016,4-cylinder,Petrol,Manual,118490,Thalawathugoda
+1157,1157,Honda,Fit,2016,4-cylinder,Petrol,Automatic,121762,Athurugiriya
+1158,1158,Toyota,Allion,2006,4-cylinder,Petrol,Automatic,178813,Hokandara
+1159,1159,Suzuki,Swift,2009,4-cylinder,Petrol,Manual,80370,Thalawathugoda
+1160,1160,Honda,Grace,2005,4-cylinder,Petrol Hybrid,Automatic,102652,Rajagiriya
+1161,1161,Nissan,Almera,2019,4-cylinder,Petrol,Automatic,30015,Kaduwela
+1162,1162,Toyota,Hiace,2011,4-cylinder,Diesel,Manual,235973,Pannipitiya
+1163,1163,Hyundai,Accent,2006,4-cylinder,Petrol,Manual,93223,Battaramulla
+1164,1164,Toyota,Vios,2016,4-cylinder,Petrol,Automatic,247705,Thalawathugoda
+1165,1165,Mitsubishi,Lancer,2011,4-cylinder,Petrol,Manual,74210,Maharagama
+1166,1166,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,206272,Thalawathugoda
+1167,1167,Honda,Vezel,2020,4-cylinder,Petrol Hybrid,Automatic,121027,Kottawa
+1168,1168,Toyota,Yaris,2011,4-cylinder,Petrol,Automatic,120878,Hokandara
+1169,1169,Toyota,Premio,2005,4-cylinder,Petrol,Automatic,259490,Hokandara
+1170,1170,Hyundai,Accent,2017,4-cylinder,Petrol,Manual,22623,Pannipitiya
+1171,1171,Hyundai,Accent,2006,4-cylinder,Petrol,Manual,239015,Malabe
+1172,1172,Honda,Civic,2022,4-cylinder,Petrol,Manual,266853,Athurugiriya
+1173,1173,Toyota,Axio,2006,4-cylinder,Petrol,Automatic,189549,Rajagiriya
+1174,1174,Toyota,Yaris,2017,4-cylinder,Petrol,Automatic,271528,Athurugiriya
+1175,1175,Toyota,Vios,2007,4-cylinder,Petrol,Automatic,35544,Malabe
+1176,1176,Kia,Rio,2009,4-cylinder,Petrol,Automatic,156571,Kottawa
+1177,1177,Hyundai,i10,2015,3-cylinder,Petrol,Automatic,88622,Hokandara
+1178,1178,Suzuki,Alto,2006,3-cylinder,Petrol,Automatic,192180,Nugegoda
+1179,1179,Nissan,Sunny,2020,4-cylinder,Petrol,Manual,207801,Hokandara
+1180,1180,Toyota,Premio,2022,4-cylinder,Petrol,Automatic,225705,Hokandara
+1181,1181,Honda,Fit,2017,4-cylinder,Petrol,Automatic,270519,Hokandara
+1182,1182,Toyota,Corolla,2021,4-cylinder,Petrol,Manual,62673,Athurugiriya
+1183,1183,Toyota,Hiace,2023,4-cylinder,Diesel,Manual,263712,Koswatta
+1184,1184,Suzuki,Swift,2016,4-cylinder,Petrol,Manual,135683,Hokandara
+1185,1185,Toyota,Corolla,2014,4-cylinder,Petrol,Manual,201595,Battaramulla
+1186,1186,Toyota,Hiace,2017,4-cylinder,Diesel,Manual,146190,Rajagiriya
+1187,1187,Mazda,Axela,2006,4-cylinder,Petrol,Automatic,236370,Thalawathugoda
+1188,1188,Toyota,Hiace,2013,4-cylinder,Diesel,Manual,133427,Malabe
+1189,1189,Hyundai,Accent,2011,4-cylinder,Petrol,Manual,250746,Malabe
+1190,1190,Kia,Cerato,2023,4-cylinder,Petrol,Automatic,220459,Thalawathugoda
+1191,1191,Honda,City,2010,4-cylinder,Petrol,Automatic,244053,Athurugiriya
+1192,1192,Toyota,Corolla,2017,4-cylinder,Petrol,Manual,211814,Hokandara
+1193,1193,Honda,City,2017,4-cylinder,Petrol,Automatic,258490,Malabe
+1194,1194,Nissan,Sunny,2015,4-cylinder,Petrol,Manual,271514,Thalawathugoda
+1195,1195,Tata,Indica,2011,4-cylinder,Petrol,Manual,42974,Thalawathugoda
+1196,1196,Hyundai,i10,2007,3-cylinder,Petrol,Automatic,226755,Maharagama
+1197,1197,Kia,Cerato,2019,4-cylinder,Petrol,Automatic,141655,Thalawathugoda
+1198,1198,Toyota,Premio,2020,4-cylinder,Petrol,Automatic,151471,Sri Jayawardenepura Kotte
+1199,1199,Hyundai,i10,2010,3-cylinder,Petrol,Automatic,154078,Boralesgamuwa
+1200,1200,Honda,City,2010,4-cylinder,Petrol,Automatic,144141,Rajagiriya
+1201,1201,Hyundai,Elantra,2016,4-cylinder,Petrol,Automatic,252645,Kaduwela
+1202,1202,Suzuki,Baleno,2008,4-cylinder,Petrol,Automatic,241120,Hokandara
+1203,1203,Mazda,Demio,2005,4-cylinder,Petrol,Automatic,135729,Hokandara
+1204,1204,Toyota,Corolla,2009,4-cylinder,Petrol,Manual,221958,Pannipitiya
+1205,1205,Honda,Fit,2021,4-cylinder,Petrol,Automatic,149796,Kaduwela
+1206,1206,Toyota,Axio,2013,4-cylinder,Petrol,Automatic,114139,Thalawathugoda
+1207,1207,Toyota,Vios,2023,4-cylinder,Petrol,Automatic,33491,Kaduwela
+1208,1208,Mitsubishi,Lancer,2017,4-cylinder,Petrol,Manual,92346,Athurugiriya
+1209,1209,Honda,Civic,2015,4-cylinder,Petrol,Manual,193981,Kottawa
+1210,1210,Nissan,Tiida,2013,4-cylinder,Petrol,Automatic,215743,Battaramulla
+1211,1211,Toyota,Vios,2010,4-cylinder,Petrol,Automatic,94994,Malabe
+1212,1212,Toyota,Hiace,2015,4-cylinder,Diesel,Manual,82073,Kottawa
+1213,1213,Mitsubishi,Lancer,2020,4-cylinder,Petrol,Manual,231473,Sri Jayawardenepura Kotte
+1214,1214,Suzuki,Baleno,2017,4-cylinder,Petrol,Automatic,63264,Nugegoda
+1215,1215,Nissan,Almera,2006,4-cylinder,Petrol,Automatic,178829,Kaduwela
+1216,1216,Nissan,Almera,2009,4-cylinder,Petrol,Automatic,148885,Boralesgamuwa
+1217,1217,Perodua,Myvi,2006,3-cylinder,Petrol,Automatic,170230,Boralesgamuwa
