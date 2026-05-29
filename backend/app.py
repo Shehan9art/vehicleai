@@ -23,7 +23,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 
 # ── Load artefacts ────────────────────────────────────────────────────────────
-BASE      = Path(__file__).parent.parent / "models"
+BASE = Path(__file__).parent
 model     = joblib.load(BASE / "vehicle_fault_model.pkl")
 encoder   = joblib.load(BASE / "label_encoder.pkl")
 with open(BASE / "model_metadata.json") as f:
